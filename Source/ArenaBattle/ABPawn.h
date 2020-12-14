@@ -4,6 +4,7 @@
 
 #include "ArenaBattle.h"
 #include "GameFramework/Pawn.h"
+#include "GameFramework/FloatingPawnMovement.h"
 #include "ABPawn.generated.h"
 
 UCLASS()
@@ -27,4 +28,24 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	virtual void PostInitializeComponents() override;
 	virtual void PossessedBy(AController* NewControoler) override;
+
+private:
+	void UpDown(float NewAxisValue);
+	void LeftRight(float NewAxisValue);
+
+public:
+	UPROPERTY(VisibleAnywhere, Category = Collision)
+	UCapsuleComponent* Capsule;
+
+	UPROPERTY(VisibleAnywhere, Category = Visual)
+	USkeletalMeshComponent* Mesh;
+
+	UPROPERTY(VisibleAnywhere, Category = Movement)
+	UFloatingPawnMovement* Movement;
+
+	UPROPERTY(VisibleAnywhere, Category = Camera)
+	USpringArmComponent* SpringArm;
+
+	UPROPERTY(VisibleAnywhere, Category = Camera)
+	UCameraComponent* Camera;
 };
