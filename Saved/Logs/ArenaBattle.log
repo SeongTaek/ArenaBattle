@@ -4781,3 +4781,544 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.14-05.54.32:959][104]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2020.12.14-05.54.33:038][104]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3433 classes and 825 folders.
 [2020.12.14-05.54.33:041][104]Display: HotReload took  0.2s.
+[2020.12.14-06.00.15:184][300]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.14-06.00.15:184][300]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.14-06.00.25:234][245]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.12.14-06.00.39:960][571]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.14-06.00.47:557][298]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2020.12.14-06.00.47:962][298]Discovering modules, targets and source code for project...
+[2020.12.14-06.00.50:478][298]Binding IntelliSense data...
+[2020.12.14-06.00.53:125][298]Binding IntelliSense data... 100%
+[2020.12.14-06.00.53:125][298]Writing project files...
+[2020.12.14-06.00.58:971][298]Writing project files... 100%
+[2020.12.14-06.00.59:089][298]Candidate modules for hot reload:
+[2020.12.14-06.00.59:089][298]  ArenaBattle
+[2020.12.14-06.00.59:089][298]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6757 ArenaBattleEditor Win64 Development -Project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" "D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: New page: 컴파일 - 2020. 12. 15. 오전 12:01:12
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\ArenaBattle).
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2020.12.14-06.01.12:646][298]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal Projects\ArenaBattle\ArenaBattle.uproject" "D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ljslo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 6.800702 seconds
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Building ArenaBattleEditor...
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: License is invalid:
+[2020.12.14-06.01.12:646][298]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.12.14-06.01.12:646][298]CompilerResultsLog:     This build will run in standalone mode.
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: 
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: ArenaBattle.init.gen.cpp (0:00.65 at +0:00)
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: ABAnimInstance.gen.cpp (0:00.93 at +0:00)
+[2020.12.14-06.01.12:646][298]CompilerResultsLog: ABAnimInstance.cpp (0:00.62 at +0:01)
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: UE4Editor-ArenaBattle-6757.dll (0:01.18 at +0:02)
+[2020.12.14-06.01.12:647][298]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6757.suppressed.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6757.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: UE4Editor-ArenaBattle-6757.lib (0:00.10 at +0:03)
+[2020.12.14-06.01.12:647][298]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6757.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6757.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: ArenaBattleEditor.target (0:00.28 at +0:03)
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: 
+[2020.12.14-06.01.12:647][298]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: 
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: 1 build system warning(s):
+[2020.12.14-06.01.12:647][298]CompilerResultsLog:    - License is invalid
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: 
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: Total time in XGE executor: 4.04 seconds
+[2020.12.14-06.01.12:647][298]CompilerResultsLog: Total execution time: 13.46 seconds
+[2020.12.14-06.01.12:647][298]LogMainFrame: MainFrame: Module compiling took 13.562 seconds
+[2020.12.14-06.01.12:707][298]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-06.01.12:730][298]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.01.12:736][298]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.01.12:843][298]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.01.12:843][298]Display: HotReload took 13.8s.
+[2020.12.14-06.01.12:852][298]Warning: HotReload operation took 13.8s.
+[2020.12.14-06.01.13:417][298]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.12.14-06.01.13:930][299]LogHotReload: New module detected: UE4Editor-ArenaBattle-6757.dll
+[2020.12.14-06.01.13:980][300]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.01.14:027][300]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0006 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.01.14:036][300]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.01.14:062][300]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.01.14:064][300]Display: HotReload took  0.1s.
+[2020.12.14-06.01.33:408][702]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.02.08:172][806]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.06.14:828][539]LogHotReload: New module detected: UE4Editor-ArenaBattle-0042.dll
+[2020.12.14-06.06.16:544][545]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.06.16:610][545]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-06.06.16:636][545]LogHotReload: Re-instancing ABAnimInstance after hot-reload.
+[2020.12.14-06.06.16:691][545]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.06.16:697][545]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.06.16:835][545]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.06.16:838][545]Display: HotReload took  0.3s.
+[2020.12.14-06.06.25:284][ 56]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/ArenaBattle.ABAnimInstance
+[2020.12.14-06.06.25:368][ 56]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABAnimInstance.h'
+[2020.12.14-06.06.26:651][123]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/ArenaBattle.ABAnimInstance
+[2020.12.14-06.07.24:103][115]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.14-06.07.25:475][254]LogBlueprint: Warning: Reparenting blueprint AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint from AnimInstance to ABAnimInstance...
+[2020.12.14-06.07.25:483][254]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.07.25:719][254]LogUObjectHash: Compacting FUObjectHashTables data took  12.94ms
+[2020.12.14-06.07.25:849][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.07.25:905][254]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint5140119B47366533051F1092C893F3EB.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.07.25:950][254]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.07.25:950][254]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.07.30:157][734]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.07.30:241][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.12.14-06.07.31:096][833]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.07.31:132][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.12.14-06.10.45:324][636]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.10.45:363][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.12.14-06.10.45:414][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.10.45:437][636]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint5AE5DD754F13933A9B6542BC7BB0C279.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.10.45:451][636]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.10.45:451][636]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.10.55:392][809]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.10.55:435][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.12.14-06.10.55:482][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.10.55:507][809]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintAB59B9BF47D8205133F2A58CAE1DFA3B.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.10.55:525][809]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.10.55:525][809]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.10.56:558][923]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.10.56:598][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.12.14-06.11.14:654][643]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.11.14:693][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.12.14-06.11.14:732][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.11.14:752][643]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint3771414D4576EBF0608B1BBEAF9265DB.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.11.14:770][643]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.11.14:770][643]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.11.15:584][730]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.11.15:621][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.12.14-06.12.15:450][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.12.14-06.12.15:453][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.028
+[2020.12.14-06.12.15:454][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2020.12.14-06.12.15:466][751]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2020.12.14-06.12.15:466][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2020.12.14-06.12.15:481][751]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto149721F7C4D3D95F63299629027749436.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto1.uasset'
+[2020.12.14-06.12.15:482][751]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.12.14-06.15.14:505][514]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.15.32:261][567]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.15.40:345][591]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.15.52:137][626]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.15.53:800][631]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.16.05:836][666]LogHotReload: New module detected: UE4Editor-ArenaBattle-0043.dll
+[2020.12.14-06.16.06:520][669]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.16.06:598][669]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.16.06:603][669]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.16.06:701][669]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.16.06:704][669]Display: HotReload took  0.2s.
+[2020.12.14-06.16.12:096][894]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-06.16.12:114][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-06.16.12:114][894]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오전 12:16:12)
+[2020.12.14-06.16.12:114][894]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.16.12:116][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002135s)
+[2020.12.14-06.16.12:117][894]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-06.16.12:117][894]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161E4F00600), frame # 231894
+[2020.12.14-06.16.12:117][894]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E4F11580), frame # 231894
+[2020.12.14-06.16.12:117][894]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2020.12.14-06.16.12:117][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003280s)
+[2020.12.14-06.16.12:180][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-06.16.12:183][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-06.16.12:183][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-06.16.12:184][894]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-06.16.12:184][894]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-06.16.12:186][894]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-06.16.12:186][894]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-06.16.12:198][894]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-06.16.12:198][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-06.16.12:198][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-06.16.12:198][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-06.16.12:198][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-06.16.12:213][894]LogInit: FAudioDevice initialized.
+[2020.12.14-06.16.12:223][894]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-06.16.12:223][894]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-15.16.12
+[2020.12.14-06.16.12:223][894]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-06.16.12:223][894]LogWorld: Bringing up level for play took: 0.000582
+[2020.12.14-06.16.12:224][894]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.12.14-06.16.12:225][894]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-06.16.12:225][894]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-06.16.12:226][894]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-06.16.12:226][894]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-06.16.12:226][894]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-06.16.12:226][894]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-06.16.12:226][894]PIE: 서버가 로그인했습니다.
+[2020.12.14-06.16.12:227][894]PIE: 에디터에서 플레이 총 시작 시간 0.116초입니다.
+[2020.12.14-06.16.24:442][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.16.24:442][623]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.16.24:442][623]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-06.16.24:442][623]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.16.24:443][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.16.24:449][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-06.16.24:455][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.16.24:493][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.16.24:493][623]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E4F11580), frame # 232623
+[2020.12.14-06.16.24:493][623]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161E4F00600), frame # 232623
+[2020.12.14-06.16.24:497][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.14-06.16.24:536][624]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.12.14-06.16.35:330][693]LogHotReload: New module detected: UE4Editor-ArenaBattle-0044.dll
+[2020.12.14-06.16.36:386][697]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.16.36:494][697]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-06.16.36:512][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.16.36:536][697]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint9773BF874D901D8B6EAC9A8EC6C00D2D.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.16.36:544][697]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.16.36:548][697]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.16.36:637][697]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.16.36:642][697]Display: HotReload took  0.3s.
+[2020.12.14-06.16.36:755][697]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.16.36:755][697]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.16.54:586][784]LogHotReload: New module detected: UE4Editor-ArenaBattle-0045.dll
+[2020.12.14-06.16.55:612][788]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.16.55:681][788]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.16.55:686][788]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.16.55:780][788]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.16.55:785][788]Display: HotReload took  0.2s.
+[2020.12.14-06.19.33:539][834]LogEditorTransaction: Undo 노드 이름변경
+[2020.12.14-06.19.33:680][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.19.34:272][852]LogEditorTransaction: Undo 노드 이동
+[2020.12.14-06.19.34:351][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.19.35:469][919]LogEditorTransaction: Undo 핀 링크 생성
+[2020.12.14-06.19.35:548][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.19.38:418][ 91]LogEditorTransaction: Redo 핀 링크 생성
+[2020.12.14-06.19.38:502][ 91]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.19.38:734][105]LogEditorTransaction: Redo 노드 이동
+[2020.12.14-06.19.38:944][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.21.30:432][740]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.21.30:566][740]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.12.14-06.21.30:631][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.21.30:689][740]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint5EA2D9944B1817A57A3E12BF2D6C8D67.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.21.30:707][740]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.21.30:707][740]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.22.01:148][485]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.22.01:222][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.12.14-06.22.01:272][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.22.01:307][485]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint16BE8A7C47BA8B5A87B52C8EF877E438.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.22.01:320][485]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.22.01:320][485]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.24.46:446][390]LogHotReload: New module detected: UE4Editor-ArenaBattle-0046.dll
+[2020.12.14-06.24.47:798][395]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.24.47:954][395]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-06.24.47:999][395]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.24.48:003][395]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.24.48:098][395]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.24.48:105][395]Display: HotReload took  0.3s.
+[2020.12.14-06.24.51:115][445]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-06.24.51:124][445]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-06.24.53:063][558]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.24.53:142][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.12.14-06.24.54:922][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.12.14-06.24.55:635][702]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-06.24.55:650][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-06.24.55:650][702]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오전 12:24:55)
+[2020.12.14-06.24.55:650][702]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.24.55:652][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001905s)
+[2020.12.14-06.24.55:653][702]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-06.24.55:653][702]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161F67EA200), frame # 247702
+[2020.12.14-06.24.55:653][702]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161FB42D440), frame # 247702
+[2020.12.14-06.24.55:654][702]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2020.12.14-06.24.55:654][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003360s)
+[2020.12.14-06.24.55:677][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-06.24.55:678][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-06.24.55:678][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-06.24.55:679][702]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-06.24.55:679][702]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-06.24.55:681][702]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-06.24.55:681][702]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-06.24.55:693][702]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-06.24.55:693][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-06.24.55:693][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-06.24.55:693][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-06.24.55:693][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-06.24.55:707][702]LogInit: FAudioDevice initialized.
+[2020.12.14-06.24.55:712][702]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-06.24.55:714][702]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-15.24.55
+[2020.12.14-06.24.55:714][702]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-06.24.55:714][702]LogWorld: Bringing up level for play took: 0.000579
+[2020.12.14-06.24.55:714][702]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.12.14-06.24.55:715][702]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-06.24.55:715][702]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-06.24.55:716][702]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-06.24.55:716][702]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-06.24.55:716][702]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-06.24.55:716][702]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-06.24.55:716][702]PIE: 서버가 로그인했습니다.
+[2020.12.14-06.24.55:716][702]PIE: 에디터에서 플레이 총 시작 시간 0.069초입니다.
+[2020.12.14-06.25.33:063][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.25.33:063][940]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.25.33:063][940]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-06.25.33:063][940]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.25.33:063][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.25.33:073][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-06.25.33:081][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.25.33:113][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.25.33:130][940]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161FB42D440), frame # 249940
+[2020.12.14-06.25.33:130][940]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161F67EA200), frame # 249940
+[2020.12.14-06.25.33:133][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.12.14-06.25.33:175][941]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.12.14-06.27.47:229][433]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.27.49:582][440]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.28.04:671][485]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-06.28.59:399][647]LogHotReload: New module detected: UE4Editor-ArenaBattle-0047.dll
+[2020.12.14-06.29.00:433][651]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-06.29.00:505][651]LogClass: Could not find existing class ABAnimInstance in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-06.29.00:523][651]LogHotReload: Re-instancing ABAnimInstance after hot-reload.
+[2020.12.14-06.29.00:562][651]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-06.29.00:589][651]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2020.12.14-06.29.00:595][651]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-06.29.00:690][651]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3434 classes and 825 folders.
+[2020.12.14-06.29.00:696][651]Display: HotReload took  0.3s.
+[2020.12.14-06.31.05:869][418]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.31.05:956][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.12.14-06.31.06:005][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.31.06:030][418]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint983D7BFA4415E112C4293085AC57834A.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.31.06:049][418]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.31.06:049][418]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.31.54:435][309]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.31.54:500][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.12.14-06.31.56:122][404]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-06.31.56:143][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-06.31.56:143][404]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오전 12:31:56)
+[2020.12.14-06.31.56:143][404]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.31.56:145][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2020.12.14-06.31.56:146][404]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-06.31.56:146][404]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161F66F4E00), frame # 260404
+[2020.12.14-06.31.56:146][404]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016213C37EC0), frame # 260404
+[2020.12.14-06.31.56:146][404]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2020.12.14-06.31.56:146][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002886s)
+[2020.12.14-06.31.56:174][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-06.31.56:175][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-06.31.56:175][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-06.31.56:176][404]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-06.31.56:176][404]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-06.31.56:178][404]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-06.31.56:178][404]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-06.31.56:189][404]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-06.31.56:190][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-06.31.56:190][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-06.31.56:190][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-06.31.56:190][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-06.31.56:203][404]LogInit: FAudioDevice initialized.
+[2020.12.14-06.31.56:214][404]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-06.31.56:215][404]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-15.31.56
+[2020.12.14-06.31.56:215][404]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-06.31.56:215][404]LogWorld: Bringing up level for play took: 0.000635
+[2020.12.14-06.31.56:215][404]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.12.14-06.31.56:216][404]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-06.31.56:216][404]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-06.31.56:217][404]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-06.31.56:217][404]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-06.31.56:217][404]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-06.31.56:217][404]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-06.31.56:217][404]PIE: 서버가 로그인했습니다.
+[2020.12.14-06.31.56:218][404]PIE: 에디터에서 플레이 총 시작 시간 0.08초입니다.
+[2020.12.14-06.32.01:374][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.32.01:374][710]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-06.32.01:374][710]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-06.32.01:374][710]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.32.01:375][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.32.01:383][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-06.32.01:389][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.32.01:470][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-06.32.01:471][710]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016213C37EC0), frame # 260710
+[2020.12.14-06.32.01:471][710]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161F66F4E00), frame # 260710
+[2020.12.14-06.32.01:473][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.14-06.32.01:538][711]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.12.14-06.32.47:800][442]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.12.14-06.32.47:812][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.32.47:859][442]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.14-06.32.57:817][944]Cmd: TRANSACTION UNDO
+[2020.12.14-06.32.57:817][944]LogEditorTransaction: Undo 본 회전
+[2020.12.14-06.32.58:079][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.32.58:081][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.32.58:736][964]Cmd: TRANSACTION UNDO
+[2020.12.14-06.32.58:737][964]LogEditorTransaction: Undo 본 회전
+[2020.12.14-06.32.58:924][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.32.58:924][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.34.49:783][216]LogSlate: Window '매핑 저장' being destroyed
+[2020.12.14-06.34.50:998][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2020.12.14-06.34.51:019][270]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/UE4_Mannequin_Skeleton14092D614B883E37095D769D86E88217.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.12.14-06.34.51:044][270]AssetCheck: New page: 애셋 저장: UE4_Mannequin_Skeleton
+[2020.12.14-06.34.51:044][270]LogContentValidation: Display: Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton 유효성 검사
+[2020.12.14-06.34.51:728][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2020.12.14-06.34.51:736][310]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/UE4_Mannequin_Skeleton73A174C34F7337E70F5117960DD649DD.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.12.14-06.34.51:747][310]AssetCheck: New page: 애셋 저장: UE4_Mannequin_Skeleton
+[2020.12.14-06.34.51:747][310]LogContentValidation: Display: Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton 유효성 검사
+[2020.12.14-06.34.56:993][591]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2020.12.14-06.34.57:000][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.35.11:193][371]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_Mannequin_Skeleton27C67DCE4F32C96B914D61BD6451B017.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2020.12.14-06.35.11:211][371]AssetCheck: New page: 애셋 저장: SK_Mannequin_Skeleton
+[2020.12.14-06.35.11:211][371]LogContentValidation: Display: Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 유효성 검사
+[2020.12.14-06.35.42:050][185]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.12.14-06.35.44:489][315]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.12.14-06.36.28:541][721]LogSlate: Window '새 애니메이션 오브젝트 생성' being destroyed
+[2020.12.14-06.36.40:475][189]LogSlate: Window '새 애니메이션 오브젝트 생성' being destroyed
+[2020.12.14-06.36.44:321][413]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animations/WarriorJump_End.WarriorJump_End
+[2020.12.14-06.36.44:321][413]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animations/WarriorJump_End.WarriorJump_End
+[2020.12.14-06.36.44:323][413]LogSlate: Window '스켈레톤 선택' being destroyed
+[2020.12.14-06.36.44:332][413]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.36.44:332][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.36.44:342][413]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.36.44:342][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.36.44:402][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animations/WarriorJump_Start.WarriorJump_Start
+[2020.12.14-06.36.44:402][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animations/WarriorJump_Loop.WarriorJump_Loop
+[2020.12.14-06.36.44:434][415]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Book/Animations/WarriorJump_End.WarriorJump_End
+[2020.12.14-06.36.52:330][745]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Book/Animations/WarriorJump_Loop.WarriorJump_Loop
+[2020.12.14-06.36.52:340][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.36.53:234][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.14-06.36.58:407][ 44]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.36.58:407][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.36.58:449][ 44]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.36.58:449][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.36.58:585][ 44]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.36.58:585][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.37.00:042][117]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_Mannequin_Skeleton7AD1517E4CC592DCE9C52BA573FBC10D.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2020.12.14-06.37.00:065][117]AssetCheck: New page: 애셋 저장: SK_Mannequin_Skeleton
+[2020.12.14-06.37.00:065][117]LogContentValidation: Display: Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 유효성 검사
+[2020.12.14-06.37.01:428][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2020.12.14-06.37.01:436][192]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/UE4_Mannequin_Skeleton28C539AC4810EB9A9EDBCA8E0FBE532D.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.12.14-06.37.01:461][192]AssetCheck: New page: 애셋 저장: UE4_Mannequin_Skeleton
+[2020.12.14-06.37.01:461][192]LogContentValidation: Display: Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton 유효성 검사
+[2020.12.14-06.37.02:304][243]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.37.02:304][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.37.02:978][266]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.37.02:978][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.37.09:255][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.12.14-06.37.10:717][617]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.12.14-06.37.10:800][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorJump_End" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_End.uasset" SILENT=true
+[2020.12.14-06.37.10:818][617]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorJump_End8133CCDC4AAF6E28B3B67585B9ABCC5B.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_End.uasset'
+[2020.12.14-06.37.10:833][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorJump_Loop" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Loop.uasset" SILENT=true
+[2020.12.14-06.37.10:852][617]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorJump_LoopD31A61C246D56DB4C3CD62AA381A28D4.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Loop.uasset'
+[2020.12.14-06.37.10:867][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorJump_Start" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Start.uasset" SILENT=true
+[2020.12.14-06.37.10:884][617]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorJump_Start4AAB633E4ABEA71A49CD618D6042FF91.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Start.uasset'
+[2020.12.14-06.37.10:932][617]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.12.14-06.37.10:932][617]LogContentValidation: Display: AnimSequence /Game/Book/Animations/WarriorJump_End.WarriorJump_End 유효성 검사
+[2020.12.14-06.37.10:932][617]LogContentValidation: Display: AnimSequence /Game/Book/Animations/WarriorJump_Loop.WarriorJump_Loop 유효성 검사
+[2020.12.14-06.37.10:932][617]LogContentValidation: Display: AnimSequence /Game/Book/Animations/WarriorJump_Start.WarriorJump_Start 유효성 검사
+[2020.12.14-06.37.12:295][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorJump_Loop" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Loop.uasset" SILENT=true
+[2020.12.14-06.37.12:306][697]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorJump_LoopD6E48536418A38A73FCE979471E3E921.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorJump_Loop.uasset'
+[2020.12.14-06.37.12:316][697]AssetCheck: New page: 애셋 저장: WarriorJump_Loop
+[2020.12.14-06.37.12:317][697]LogContentValidation: Display: AnimSequence /Game/Book/Animations/WarriorJump_Loop.WarriorJump_Loop 유효성 검사
+[2020.12.14-06.37.40:190][705]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Book/Animations/WarriorJump_Start.WarriorJump_Start
+[2020.12.14-06.37.40:197][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.14-06.37.40:747][705]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.14-06.37.43:072][841]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.37.43:072][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.37.43:104][841]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.37.43:104][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.37.43:175][841]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-06.37.43:175][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-06.43.53:590][739]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.43.53:644][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.12.14-06.43.53:709][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.43.53:743][739]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintB86B81D14118DC403907A59884E52894.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.43.53:759][739]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.43.53:760][739]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.43.54:631][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.43.54:653][789]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint59F9812A4D7395BA66177EB797B196C2.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.43.54:665][789]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.43.54:665][789]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.43.55:254][824]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.43.55:300][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.12.14-06.43.59:906][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.43.59:995][ 96]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint96678075422C20E866173E982640AC16.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.44.00:016][ 96]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.44.00:016][ 96]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.44.00:161][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.12.14-06.44.00:482][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.44.00:502][121]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintA017455C4223D219F77D2280E4EC0389.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.44.00:514][121]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.44.00:514][121]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.44.40:640][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.44.40:673][481]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint9AACE5E34C8F032D2C88B09B15D86E20.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.44.40:691][481]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.44.40:691][481]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.44.51:612][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-06.44.51:640][127]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintB8B951C54CDB585ECEE40F9F1356ED43.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-06.44.51:666][127]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-06.44.51:666][127]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-06.44.52:024][149]BlueprintLog: New page: WarriorAnimBlueprint 컴파일
+[2020.12.14-06.44.52:084][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.12.14-07.04.53:905][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.12.14-07.04.53:916][408]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.069
+[2020.12.14-07.04.53:916][408]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Book/Animations/WarriorAnimBlueprint] ([1] browsable assets)...
+[2020.12.14-07.04.53:942][408]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint]
+[2020.12.14-07.04.53:942][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Book/Animations/WarriorAnimBlueprint]
+[2020.12.14-07.04.53:973][408]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprint_Auto2CE6C7FFE41D8580F61BD069496CF168C.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Animations/WarriorAnimBlueprint_Auto2.uasset'
+[2020.12.14-07.04.53:973][408]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.12.14-07.10.44:117][505]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-07.10.44:133][505]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2020.12.14-07.10.44:134][505]LogPlayLevel: [PlayLevel] Compiling WarriorAnimBlueprint before play...
+[2020.12.14-07.10.44:215][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/WarriorAnimBlueprint" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset" SILENT=true
+[2020.12.14-07.10.44:309][505]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/WarriorAnimBlueprintCB6A5CB64C4335ADD3E9E7AC4CD9F5B0.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/WarriorAnimBlueprint.uasset'
+[2020.12.14-07.10.44:392][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.12.14-07.10.44:394][505]LogPlayLevel: PlayLevel: Blueprint regeneration took 260 ms (1 blueprints)
+[2020.12.14-07.10.44:394][505]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오전 1:10:44)
+[2020.12.14-07.10.44:395][505]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-07.10.44:397][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002127s)
+[2020.12.14-07.10.44:398][505]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-07.10.44:398][505]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016228A04200), frame # 365505
+[2020.12.14-07.10.44:398][505]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E896DF80), frame # 365505
+[2020.12.14-07.10.44:398][505]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2020.12.14-07.10.44:398][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003303s)
+[2020.12.14-07.10.44:424][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-07.10.44:424][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-07.10.44:424][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-07.10.44:425][505]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-07.10.44:425][505]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-07.10.44:427][505]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-07.10.44:427][505]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-07.10.44:440][505]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-07.10.44:440][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-07.10.44:440][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-07.10.44:440][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-07.10.44:440][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-07.10.44:455][505]LogInit: FAudioDevice initialized.
+[2020.12.14-07.10.44:461][505]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-07.10.44:462][505]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-16.10.44
+[2020.12.14-07.10.44:462][505]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-07.10.44:462][505]LogWorld: Bringing up level for play took: 0.000565
+[2020.12.14-07.10.44:462][505]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.12.14-07.10.44:464][505]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-07.10.44:464][505]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-07.10.44:465][505]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-07.10.44:465][505]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-07.10.44:465][505]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-07.10.44:465][505]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-07.10.44:465][505]PIE: 서버가 로그인했습니다.
+[2020.12.14-07.10.44:466][505]PIE: 에디터에서 플레이 총 시작 시간 0.333초입니다.
+[2020.12.14-07.10.44:480][506]AssetCheck: New page: 애셋 저장: WarriorAnimBlueprint
+[2020.12.14-07.10.44:480][506]LogContentValidation: Display: AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint 유효성 검사
+[2020.12.14-07.11.05:567][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-07.11.05:567][766]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-07.11.05:567][766]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-07.11.05:567][766]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-07.11.05:568][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-07.11.05:578][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-07.11.05:582][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-07.11.05:604][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-07.11.05:622][766]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E896DF80), frame # 366766
+[2020.12.14-07.11.05:622][766]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016228A04200), frame # 366766
+[2020.12.14-07.11.05:625][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.14-07.11.05:663][767]LogPlayLevel: Display: Destroying online subsystem :Context_82
