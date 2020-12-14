@@ -3205,3 +3205,1579 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.14-04.38.14:118][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E6C1E840), frame # 64631
 [2020.12.14-04.38.14:121][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
 [2020.12.14-04.38.14:151][632]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.12.14-04.41.27:388][500]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.14-04.41.27:388][500]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.14-04.41.29:360][611]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.14-04.41.34:682][926]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2020.12.14-04.41.34:986][926]Discovering modules, targets and source code for project...
+[2020.12.14-04.41.39:321][926]Binding IntelliSense data...
+[2020.12.14-04.41.46:691][926]Binding IntelliSense data... 100%
+[2020.12.14-04.41.46:691][926]Writing project files...
+[2020.12.14-04.41.53:642][926]Writing project files... 100%
+[2020.12.14-04.41.53:859][926]Candidate modules for hot reload:
+[2020.12.14-04.41.53:859][926]  ArenaBattle
+[2020.12.14-04.41.53:859][926]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,2664 ArenaBattleEditor Win64 Development -Project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" "D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2020.12.14-04.42.08:393][926]CompilerResultsLog: New page: 컴파일 - 2020. 12. 14. 오후 10:42:08
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\ArenaBattle).
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2020.12.14-04.42.08:394][926]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal Projects\ArenaBattle\ArenaBattle.uproject" "D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ljslo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 7.4157908 seconds
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Building ArenaBattleEditor...
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: License is invalid:
+[2020.12.14-04.42.08:394][926]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.12.14-04.42.08:394][926]CompilerResultsLog:     This build will run in standalone mode.
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: 
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: ArenaBattle.init.gen.cpp (0:01.06 at +0:00)
+[2020.12.14-04.42.08:394][926]CompilerResultsLog: ABCharacter.gen.cpp (0:00.86 at +0:01)
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: ABCharacter.cpp (0:00.96 at +0:01)
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: UE4Editor-ArenaBattle-2664.dll (0:00.90 at +0:02)
+[2020.12.14-04.42.08:395][926]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-2664.suppressed.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-2664.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: UE4Editor-ArenaBattle-2664.lib (0:00.15 at +0:03)
+[2020.12.14-04.42.08:395][926]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-2664.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-2664.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: ArenaBattleEditor.target (0:00.40 at +0:03)
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: 
+[2020.12.14-04.42.08:395][926]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: 
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: 1 build system warning(s):
+[2020.12.14-04.42.08:395][926]CompilerResultsLog:    - License is invalid
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: 
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: Total time in XGE executor: 4.55 seconds
+[2020.12.14-04.42.08:395][926]CompilerResultsLog: Total execution time: 14.42 seconds
+[2020.12.14-04.42.08:395][926]LogMainFrame: MainFrame: Module compiling took 14.539 seconds
+[2020.12.14-04.42.08:424][926]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-04.42.08:437][926]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-04.42.08:441][926]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-04.42.08:534][926]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-04.42.08:534][926]Display: HotReload took 14.7s.
+[2020.12.14-04.42.08:552][926]Warning: HotReload operation took 14.7s.
+[2020.12.14-04.42.09:352][926]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'D:/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABCharacter.h'
+[2020.12.14-04.42.09:746][926]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABCharacter.cpp'
+[2020.12.14-04.42.09:756][926]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.12.14-04.42.10:138][927]ArenaBattle: Warning: AABPawn::PostInitializeComponents(69)
+[2020.12.14-04.42.10:140][927]LogHotReload: New module detected: UE4Editor-ArenaBattle-2664.dll
+[2020.12.14-04.42.10:186][928]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-04.42.10:219][928]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-04.42.10:223][928]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-04.42.10:237][928]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-04.42.10:240][928]Display: HotReload took  0.1s.
+[2020.12.14-04.43.44:173][391]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-04.43.50:205][409]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-04.43.55:652][425]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-04.52.30:686][957]LogHotReload: New module detected: UE4Editor-ArenaBattle-0018.dll
+[2020.12.14-04.52.32:055][962]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-04.52.32:218][962]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-04.52.32:247][962]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-04.52.32:285][962]LogHotReload: Re-instancing ABGameMode after hot-reload.
+[2020.12.14-04.52.32:316][962]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-04.52.32:321][962]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-04.52.32:442][962]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-04.52.32:446][962]Display: HotReload took  0.4s.
+[2020.12.14-04.52.43:637][135]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-04.52.43:657][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-04.52.43:657][135]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 10:52:43)
+[2020.12.14-04.52.43:702][135]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-04.52.43:705][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2020.12.14-04.52.43:705][135]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-04.52.43:705][135]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001620FEBFE00), frame # 71135
+[2020.12.14-04.52.43:705][135]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001620FEC7D80), frame # 71135
+[2020.12.14-04.52.43:706][135]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2020.12.14-04.52.43:706][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003162s)
+[2020.12.14-04.52.43:831][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-04.52.43:834][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-04.52.43:834][135]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-04.52.43:834][135]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-04.52.43:836][135]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-04.52.43:836][135]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-04.52.43:854][135]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-04.52.43:854][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-04.52.43:854][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-04.52.43:854][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-04.52.43:855][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-04.52.43:887][135]LogInit: FAudioDevice initialized.
+[2020.12.14-04.52.43:901][135]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-04.52.43:905][135]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-13.52.43
+[2020.12.14-04.52.43:906][135]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-04.52.43:906][135]LogWorld: Bringing up level for play took: 0.002120
+[2020.12.14-04.52.43:906][135]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.12.14-04.52.43:910][135]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-04.52.43:912][135]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-04.52.43:935][135]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-04.52.43:935][135]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-04.52.43:935][135]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-04.52.43:936][135]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-04.52.43:936][135]PIE: 서버가 로그인했습니다.
+[2020.12.14-04.52.43:938][135]PIE: 에디터에서 플레이 총 시작 시간 0.286초입니다.
+[2020.12.14-04.52.47:605][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-04.52.47:605][561]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-04.52.47:605][561]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-04.52.47:605][561]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-04.52.47:607][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-04.52.47:623][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-04.52.47:632][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-04.52.47:686][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-04.52.47:717][561]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001620FEBFE00), frame # 71561
+[2020.12.14-04.52.47:717][561]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001620FEC7D80), frame # 71561
+[2020.12.14-04.52.47:730][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.12.14-04.52.47:765][562]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.12.14-04.53.44:891][564]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-04.53.44:908][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-04.53.44:908][564]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 10:53:44)
+[2020.12.14-04.53.44:908][564]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-04.53.44:911][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002068s)
+[2020.12.14-04.53.44:911][564]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-04.53.44:911][564]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161B0981E00), frame # 76564
+[2020.12.14-04.53.44:911][564]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161B094BD80), frame # 76564
+[2020.12.14-04.53.44:912][564]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2020.12.14-04.53.44:912][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003240s)
+[2020.12.14-04.53.44:938][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-04.53.44:940][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-04.53.44:940][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-04.53.44:941][564]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-04.53.44:941][564]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-04.53.44:944][564]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-04.53.44:944][564]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-04.53.44:954][564]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-04.53.44:954][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-04.53.44:954][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-04.53.44:954][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-04.53.44:955][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-04.53.44:967][564]LogInit: FAudioDevice initialized.
+[2020.12.14-04.53.44:972][564]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-04.53.44:974][564]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-13.53.44
+[2020.12.14-04.53.44:974][564]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-04.53.44:974][564]LogWorld: Bringing up level for play took: 0.000583
+[2020.12.14-04.53.44:974][564]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-04.53.44:975][564]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-04.53.44:976][564]PIE: 서버가 로그인했습니다.
+[2020.12.14-04.53.44:976][564]PIE: 에디터에서 플레이 총 시작 시간 0.069초입니다.
+[2020.12.14-04.53.54:294][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-04.53.54:294][377]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-04.53.54:294][377]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-04.53.54:294][377]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-04.53.54:294][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-04.53.54:305][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-04.53.54:309][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-04.53.54:348][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-04.53.54:348][377]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161B094BD80), frame # 77377
+[2020.12.14-04.53.54:348][377]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161B0981E00), frame # 77377
+[2020.12.14-04.53.54:350][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.12.14-04.53.54:405][378]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.12.14-05.05.24:963][924]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.06.24:259][100]LogHotReload: New module detected: UE4Editor-ArenaBattle-0019.dll
+[2020.12.14-05.06.25:294][104]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.06.25:430][104]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.06.25:468][104]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.06.25:472][104]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.06.25:557][104]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.06.25:561][104]Display: HotReload took  0.3s.
+[2020.12.14-05.06.37:129][244]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.06.37:142][244]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.06.37:515][279]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.06.37:541][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.06.37:541][279]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:06:37)
+[2020.12.14-05.06.37:541][279]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.06.37:544][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003135s)
+[2020.12.14-05.06.37:546][279]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.06.37:546][279]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161D4158800), frame # 98279
+[2020.12.14-05.06.37:546][279]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E4CDEE80), frame # 98279
+[2020.12.14-05.06.37:546][279]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2020.12.14-05.06.37:546][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004974s)
+[2020.12.14-05.06.37:614][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.06.37:616][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.06.37:616][279]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.06.37:616][279]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.06.37:618][279]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.06.37:618][279]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.06.37:630][279]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.06.37:630][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.06.37:630][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.06.37:630][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.06.37:631][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.06.37:653][279]LogInit: FAudioDevice initialized.
+[2020.12.14-05.06.37:669][279]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.06.37:672][279]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.06.37
+[2020.12.14-05.06.37:672][279]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.06.37:672][279]LogWorld: Bringing up level for play took: 0.001814
+[2020.12.14-05.06.37:673][279]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.12.14-05.06.37:676][279]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.06.37:676][279]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.06.37:678][279]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.06.37:678][279]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.06.37:678][279]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.06.37:678][279]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.06.37:679][279]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.06.37:681][279]PIE: 에디터에서 플레이 총 시작 시간 0.144초입니다.
+[2020.12.14-05.06.44:175][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.06.44:175][ 43]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.06.44:175][ 43]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.06.44:175][ 43]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.06.44:175][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.06.44:186][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.06.44:190][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.06.44:229][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.06.44:231][ 43]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E4CDEE80), frame # 99043
+[2020.12.14-05.06.44:231][ 43]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161D4158800), frame # 99043
+[2020.12.14-05.06.44:247][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.12.14-05.06.44:285][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.12.14-05.06.47:513][128]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.07.06:865][252]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.07.06:879][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.07.06:880][252]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:07:06)
+[2020.12.14-05.07.06:914][252]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.07.06:917][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2020.12.14-05.07.06:918][252]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.07.06:918][252]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161A6DC5200), frame # 99252
+[2020.12.14-05.07.06:918][252]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161A5F8DE40), frame # 99252
+[2020.12.14-05.07.06:918][252]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2020.12.14-05.07.06:918][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004312s)
+[2020.12.14-05.07.06:957][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.07.06:958][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.07.06:958][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.07.06:959][252]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.07.06:959][252]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.07.06:962][252]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.07.06:962][252]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.07.06:979][252]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.07.06:979][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.07.06:979][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.07.06:979][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.07.06:979][252]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.07.07:000][252]LogInit: FAudioDevice initialized.
+[2020.12.14-05.07.07:009][252]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.07.07:010][252]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.07.07
+[2020.12.14-05.07.07:011][252]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.07.07:011][252]LogWorld: Bringing up level for play took: 0.000886
+[2020.12.14-05.07.07:011][252]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.12.14-05.07.07:012][252]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.07.07:013][252]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.07.07:013][252]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.07.07:014][252]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.07.07:014][252]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.07.07:014][252]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.07.07:014][252]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.07.07:015][252]PIE: 에디터에서 플레이 총 시작 시간 0.137초입니다.
+[2020.12.14-05.07.14:474][133]Cmd: disp
+[2020.12.14-05.07.14:484][133]Command not recognized: disp
+[2020.12.14-05.07.38:535][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.07.38:535][597]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.07.38:535][597]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.07.38:535][597]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.07.38:536][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.07.38:550][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.07.38:557][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.07.38:597][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.07.38:613][597]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161A5F8DE40), frame # 101597
+[2020.12.14-05.07.38:613][597]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161A6DC5200), frame # 101597
+[2020.12.14-05.07.38:621][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.12.14-05.07.38:662][598]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.12.14-05.07.40:331][686]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.07.40:342][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.07.40:342][686]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:07:40)
+[2020.12.14-05.07.40:363][686]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.07.40:365][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001747s)
+[2020.12.14-05.07.40:366][686]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.07.40:366][686]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001613BE86400), frame # 101686
+[2020.12.14-05.07.40:366][686]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161A5F8C2C0), frame # 101686
+[2020.12.14-05.07.40:366][686]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2020.12.14-05.07.40:366][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002806s)
+[2020.12.14-05.07.40:392][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.07.40:393][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.07.40:393][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.07.40:393][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.07.40:395][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.07.40:395][686]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.07.40:406][686]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.07.40:406][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.07.40:406][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.07.40:406][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.07.40:406][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.07.40:419][686]LogInit: FAudioDevice initialized.
+[2020.12.14-05.07.40:429][686]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.07.40:430][686]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.07.40
+[2020.12.14-05.07.40:430][686]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.07.40:430][686]LogWorld: Bringing up level for play took: 0.000546
+[2020.12.14-05.07.40:430][686]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.12.14-05.07.40:431][686]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.07.40:431][686]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.07.40:432][686]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.07.40:432][686]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.07.40:432][686]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.07.40:432][686]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.07.40:432][686]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.07.40:432][686]PIE: 에디터에서 플레이 총 시작 시간 0.09초입니다.
+[2020.12.14-05.07.44:985][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.07.44:985][950]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.07.44:985][950]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.07.44:985][950]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.07.44:986][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.07.44:994][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.07.45:000][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.07.45:042][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.07.45:061][950]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161A5F8C2C0), frame # 101950
+[2020.12.14-05.07.45:061][950]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001613BE86400), frame # 101950
+[2020.12.14-05.07.45:070][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.14-05.07.45:101][951]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.12.14-05.08.56:889][958]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.08.56:912][958]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.09.05:240][943]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.09.05:256][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.09.05:256][943]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:09:05)
+[2020.12.14-05.09.05:256][943]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.09.05:259][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002614s)
+[2020.12.14-05.09.05:260][943]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.09.05:260][943]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001621025BE00), frame # 105943
+[2020.12.14-05.09.05:260][943]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161A5F8EC00), frame # 105943
+[2020.12.14-05.09.05:260][943]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2020.12.14-05.09.05:260][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003971s)
+[2020.12.14-05.09.05:287][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.09.05:290][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.09.05:290][943]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.09.05:290][943]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.09.05:293][943]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.09.05:293][943]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.09.05:305][943]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.09.05:306][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.09.05:306][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.09.05:306][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.09.05:306][943]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.09.05:318][943]LogInit: FAudioDevice initialized.
+[2020.12.14-05.09.05:328][943]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.09.05:329][943]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.09.05
+[2020.12.14-05.09.05:329][943]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.09.05:329][943]LogWorld: Bringing up level for play took: 0.000513
+[2020.12.14-05.09.05:329][943]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.12.14-05.09.05:330][943]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.09.05:330][943]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.09.05:331][943]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.09.05:331][943]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.09.05:331][943]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.09.05:331][943]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.09.05:331][943]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.09.05:332][943]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2020.12.14-05.10.03:736][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.10.03:736][802]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.10.03:736][802]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.10.03:736][802]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.10.03:736][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.10.03:745][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.10.03:750][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.10.03:785][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.10.03:805][802]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161A5F8EC00), frame # 111802
+[2020.12.14-05.10.03:805][802]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001621025BE00), frame # 111802
+[2020.12.14-05.10.03:814][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.12.14-05.10.03:850][803]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.12.14-05.10.40:624][320]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.10.40:640][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.10.40:640][320]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:10:40)
+[2020.12.14-05.10.40:640][320]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.10.40:642][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001770s)
+[2020.12.14-05.10.40:642][320]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.10.40:642][320]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016210225600), frame # 114320
+[2020.12.14-05.10.40:642][320]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001618427AC00), frame # 114320
+[2020.12.14-05.10.40:643][320]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.12.14-05.10.40:643][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002736s)
+[2020.12.14-05.10.40:670][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.10.40:673][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.10.40:673][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.10.40:674][320]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.10.40:674][320]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.10.40:676][320]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.10.40:676][320]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.10.40:688][320]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.10.40:688][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.10.40:688][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.10.40:688][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.10.40:688][320]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.10.40:701][320]LogInit: FAudioDevice initialized.
+[2020.12.14-05.10.40:711][320]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.10.40:712][320]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.10.40
+[2020.12.14-05.10.40:712][320]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.10.40:712][320]LogWorld: Bringing up level for play took: 0.000506
+[2020.12.14-05.10.40:712][320]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.12.14-05.10.40:713][320]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.10.40:713][320]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.10.40:714][320]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.10.40:714][320]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.10.40:714][320]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.10.40:714][320]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.10.40:714][320]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.10.40:715][320]PIE: 에디터에서 플레이 총 시작 시간 0.075초입니다.
+[2020.12.14-05.11.50:231][355]Set new viewmode: Lit
+[2020.12.14-05.11.51:164][411]Set new viewmode: Unlit
+[2020.12.14-05.11.51:864][453]Set new viewmode: Lit
+[2020.12.14-05.11.51:864][453]Set new viewmode: Unlit
+[2020.12.14-05.11.52:247][476]Set new viewmode: Wireframe
+[2020.12.14-05.12.06:335][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.12.06:335][150]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.12.06:335][150]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.12.06:335][150]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.12.06:335][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.12.06:344][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.12.06:347][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.12.06:369][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.12.06:384][150]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001618427AC00), frame # 122150
+[2020.12.14-05.12.06:384][150]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016210225600), frame # 122150
+[2020.12.14-05.12.06:392][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.14-05.12.06:436][151]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.12.14-05.12.14:719][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.14-05.12.14:751][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.12.14-05.12.14:775][109]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step23E419D684CBA04D21F5EBEA40547045D.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2020.12.14-05.12.14:824][109]AssetCheck: New page: 애셋 저장: Step2
+[2020.12.14-05.12.14:824][109]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사
+[2020.12.14-05.12.15:006][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.14-05.12.15:256][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.14-05.12.15:280][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.14-05.12.15:294][150]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step2A7EDB47B4117324A4ABEB7ABCBC0D4CB.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2020.12.14-05.12.15:328][150]AssetCheck: New page: 애셋 저장: Step2
+[2020.12.14-05.12.15:328][150]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사
+[2020.12.14-05.14.01:002][578]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.14.10:744][607]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.14.14:448][618]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.14.22:837][643]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.15.35:519][858]LogHotReload: New module detected: UE4Editor-ArenaBattle-0020.dll
+[2020.12.14-05.15.37:218][864]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.15.37:330][864]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.15.37:384][864]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.15.37:389][864]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.15.37:499][864]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.15.37:502][864]Display: HotReload took  0.3s.
+[2020.12.14-05.15.43:768][981]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.15.43:785][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.15.43:786][981]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:15:43)
+[2020.12.14-05.15.43:786][981]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.15.43:788][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2020.12.14-05.15.43:788][981]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.15.43:788][981]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161EA70EC00), frame # 126981
+[2020.12.14-05.15.43:789][981]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161EABCFD80), frame # 126981
+[2020.12.14-05.15.43:789][981]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2020.12.14-05.15.43:789][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002945s)
+[2020.12.14-05.15.43:847][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.15.43:848][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.15.43:848][981]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.15.43:848][981]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.15.43:851][981]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.15.43:851][981]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.15.43:862][981]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.15.43:862][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.15.43:862][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.15.43:862][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.15.43:862][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.15.43:875][981]LogInit: FAudioDevice initialized.
+[2020.12.14-05.15.43:881][981]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.15.43:882][981]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.15.43
+[2020.12.14-05.15.43:882][981]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.15.43:882][981]LogWorld: Bringing up level for play took: 0.000575
+[2020.12.14-05.15.43:882][981]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.12.14-05.15.43:883][981]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.15.43:883][981]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.15.43:883][981]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.15.43:884][981]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.15.43:884][981]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.15.43:884][981]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.15.43:884][981]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.15.43:884][981]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2020.12.14-05.16.03:056][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.16.03:056][271]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.16.03:056][271]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.16.03:056][271]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.16.03:056][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.16.03:061][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.16.03:066][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.16.03:109][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.16.03:113][271]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161EABCFD80), frame # 129271
+[2020.12.14-05.16.03:113][271]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161EA70EC00), frame # 129271
+[2020.12.14-05.16.03:130][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.12.14-05.16.03:164][272]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.12.14-05.16.03:986][360]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.16.03:999][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.16.03:999][360]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:16:03)
+[2020.12.14-05.16.04:025][360]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.16.04:026][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001564s)
+[2020.12.14-05.16.04:027][360]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.16.04:027][360]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161E1434E00), frame # 129360
+[2020.12.14-05.16.04:027][360]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161C7B70A40), frame # 129360
+[2020.12.14-05.16.04:027][360]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2020.12.14-05.16.04:027][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002454s)
+[2020.12.14-05.16.04:068][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.16.04:069][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.16.04:069][360]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.16.04:069][360]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.16.04:072][360]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.16.04:072][360]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.16.04:082][360]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.16.04:083][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.16.04:083][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.16.04:083][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.16.04:083][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.16.04:096][360]LogInit: FAudioDevice initialized.
+[2020.12.14-05.16.04:108][360]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.16.04:109][360]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.16.04
+[2020.12.14-05.16.04:109][360]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.16.04:109][360]LogWorld: Bringing up level for play took: 0.000505
+[2020.12.14-05.16.04:109][360]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.12.14-05.16.04:110][360]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.16.04:110][360]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.16.04:111][360]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.16.04:111][360]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.16.04:111][360]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.16.04:111][360]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.16.04:111][360]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.16.04:112][360]PIE: 에디터에서 플레이 총 시작 시간 0.113초입니다.
+[2020.12.14-05.16.10:435][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.16.10:435][989]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.16.10:435][989]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.16.10:435][989]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.16.10:435][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.16.10:441][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.16.10:445][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.16.10:482][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.16.10:482][989]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161C7B70A40), frame # 129989
+[2020.12.14-05.16.10:482][989]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161E1434E00), frame # 129989
+[2020.12.14-05.16.10:485][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.14-05.16.10:529][990]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.12.14-05.16.17:658][115]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.17.54:693][402]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.17.58:397][413]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.18.14:679][539]LogHotReload: New module detected: UE4Editor-ArenaBattle-0021.dll
+[2020.12.14-05.18.15:757][630]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.18.15:826][630]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.18.15:847][630]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.18.15:850][630]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.18.15:945][630]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.18.15:947][630]Display: HotReload took  0.2s.
+[2020.12.14-05.18.17:464][719]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.18.17:479][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.18.17:479][719]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:18:17)
+[2020.12.14-05.18.17:505][719]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.18.17:508][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002893s)
+[2020.12.14-05.18.17:509][719]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.18.17:509][719]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161E34FEA00), frame # 130719
+[2020.12.14-05.18.17:509][719]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161EAD57D80), frame # 130719
+[2020.12.14-05.18.17:509][719]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2020.12.14-05.18.17:510][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004554s)
+[2020.12.14-05.18.17:576][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.18.17:577][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.18.17:577][719]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.18.17:577][719]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.18.17:579][719]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.18.17:579][719]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.18.17:591][719]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.18.17:591][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.18.17:591][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.18.17:591][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.18.17:591][719]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.18.17:618][719]LogInit: FAudioDevice initialized.
+[2020.12.14-05.18.17:639][719]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.18.17:642][719]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.18.17
+[2020.12.14-05.18.17:643][719]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.18.17:643][719]LogWorld: Bringing up level for play took: 0.002124
+[2020.12.14-05.18.17:644][719]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.12.14-05.18.17:647][719]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.18.17:648][719]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.18.17:650][719]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.18.17:650][719]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.18.17:650][719]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.18.17:650][719]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.18.17:651][719]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.18.17:653][719]PIE: 에디터에서 플레이 총 시작 시간 0.176초입니다.
+[2020.12.14-05.18.59:816][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.18.59:816][994]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.18.59:816][994]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.18.59:816][994]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.18.59:816][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.18.59:828][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.18.59:832][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.18.59:867][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.18.59:868][994]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161EAD57D80), frame # 133994
+[2020.12.14-05.18.59:868][994]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161E34FEA00), frame # 133994
+[2020.12.14-05.18.59:872][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.14-05.18.59:912][995]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.12.14-05.20.26:939][843]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.21.03:469][951]LogHotReload: New module detected: UE4Editor-ArenaBattle-0022.dll
+[2020.12.14-05.21.04:847][956]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.21.04:953][956]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.21.04:984][956]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.21.04:988][956]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.21.05:082][956]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.21.05:087][956]Display: HotReload took  0.2s.
+[2020.12.14-05.21.06:710][  2]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.21.06:726][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.21.06:726][  2]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:21:06)
+[2020.12.14-05.21.06:765][  2]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.06:767][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001884s)
+[2020.12.14-05.21.06:768][  2]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.21.06:768][  2]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001620FC84400), frame # 138002
+[2020.12.14-05.21.06:768][  2]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161EABF0680), frame # 138002
+[2020.12.14-05.21.06:768][  2]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2020.12.14-05.21.06:768][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003096s)
+[2020.12.14-05.21.06:833][  2]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.21.06:836][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.21.06:836][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.21.06:837][  2]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.21.06:837][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.21.06:841][  2]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.21.06:841][  2]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.21.06:862][  2]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.21.06:862][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.21.06:862][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.21.06:862][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.21.06:863][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.21.06:900][  2]LogInit: FAudioDevice initialized.
+[2020.12.14-05.21.06:915][  2]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.21.06:918][  2]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.21.06
+[2020.12.14-05.21.06:918][  2]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.21.06:919][  2]LogWorld: Bringing up level for play took: 0.001823
+[2020.12.14-05.21.06:919][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.12.14-05.21.06:922][  2]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.21.06:923][  2]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.21.06:925][  2]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.21.06:925][  2]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.21.06:925][  2]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.21.06:925][  2]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.21.06:926][  2]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.21.06:928][  2]PIE: 에디터에서 플레이 총 시작 시간 0.204초입니다.
+[2020.12.14-05.21.13:218][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.13:218][370]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.13:219][370]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.21.13:219][370]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.21.13:219][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.13:235][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.21.13:245][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.13:320][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.13:327][370]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161EABF0680), frame # 138370
+[2020.12.14-05.21.13:327][370]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001620FC84400), frame # 138370
+[2020.12.14-05.21.13:341][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.12.14-05.21.13:368][371]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.12.14-05.21.13:963][399]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.21.13:983][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.21.13:983][399]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:21:13)
+[2020.12.14-05.21.13:983][399]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.13:986][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002644s)
+[2020.12.14-05.21.13:987][399]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.21.13:987][399]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161A8DEBE00), frame # 138399
+[2020.12.14-05.21.13:987][399]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161D3966840), frame # 138399
+[2020.12.14-05.21.13:987][399]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2020.12.14-05.21.13:988][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004057s)
+[2020.12.14-05.21.14:022][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.21.14:023][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.21.14:023][399]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.21.14:023][399]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.21.14:026][399]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.21.14:026][399]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.21.14:037][399]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.21.14:037][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.21.14:037][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.21.14:037][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.21.14:037][399]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.21.14:050][399]LogInit: FAudioDevice initialized.
+[2020.12.14-05.21.14:061][399]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.21.14:062][399]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.21.14
+[2020.12.14-05.21.14:062][399]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.21.14:062][399]LogWorld: Bringing up level for play took: 0.000506
+[2020.12.14-05.21.14:062][399]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.21.14:063][399]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.21.14:063][399]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.21.14:064][399]PIE: 에디터에서 플레이 총 시작 시간 0.081초입니다.
+[2020.12.14-05.21.28:006][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.28:006][232]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.28:006][232]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.21.28:006][232]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.21.28:007][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.28:014][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.21.28:017][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.28:039][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.28:055][232]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161D3966840), frame # 139232
+[2020.12.14-05.21.28:055][232]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161A8DEBE00), frame # 139232
+[2020.12.14-05.21.28:058][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.14-05.21.28:096][233]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.12.14-05.21.35:655][431]LogHotReload: New module detected: UE4Editor-ArenaBattle-0023.dll
+[2020.12.14-05.21.36:683][493]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.21.36:785][493]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.21.36:809][493]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.21.36:813][493]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.21.36:903][493]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.21.36:906][493]Display: HotReload took  0.2s.
+[2020.12.14-05.21.38:256][541]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.21.38:283][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.21.38:283][541]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:21:38)
+[2020.12.14-05.21.38:283][541]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.38:286][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002699s)
+[2020.12.14-05.21.38:287][541]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.21.38:287][541]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161E55F9E00), frame # 139541
+[2020.12.14-05.21.38:287][541]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E43A4F40), frame # 139541
+[2020.12.14-05.21.38:287][541]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.12.14-05.21.38:287][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004171s)
+[2020.12.14-05.21.38:363][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.21.38:364][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.21.38:365][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.21.38:365][541]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.21.38:365][541]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.21.38:368][541]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.21.38:369][541]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.21.38:391][541]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.21.38:392][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.21.38:392][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.21.38:392][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.21.38:393][541]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.21.38:442][541]LogInit: FAudioDevice initialized.
+[2020.12.14-05.21.38:462][541]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.21.38:465][541]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.21.38
+[2020.12.14-05.21.38:465][541]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.21.38:465][541]LogWorld: Bringing up level for play took: 0.001818
+[2020.12.14-05.21.38:466][541]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.12.14-05.21.38:469][541]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.21.38:470][541]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.21.38:472][541]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.21.38:472][541]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.21.38:472][541]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.21.38:472][541]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.21.38:472][541]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.21.38:474][541]PIE: 에디터에서 플레이 총 시작 시간 0.196초입니다.
+[2020.12.14-05.21.55:167][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.55:167][534]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.21.55:167][534]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.21.55:167][534]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.21.55:167][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.55:175][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.21.55:181][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.21.55:235][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.21.55:236][534]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E43A4F40), frame # 140534
+[2020.12.14-05.21.55:236][534]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161E55F9E00), frame # 140534
+[2020.12.14-05.21.55:239][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.14-05.21.55:277][535]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.12.14-05.22.02:386][762]LogHotReload: New module detected: UE4Editor-ArenaBattle-0024.dll
+[2020.12.14-05.22.03:409][820]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.22.03:494][820]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.22.03:516][820]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.22.03:519][820]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.22.03:605][820]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.22.03:610][820]Display: HotReload took  0.2s.
+[2020.12.14-05.22.10:529][189]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.22.10:556][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.22.10:556][189]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:22:10)
+[2020.12.14-05.22.10:556][189]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.22.10:559][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002691s)
+[2020.12.14-05.22.10:560][189]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.22.10:560][189]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001613C955C00), frame # 141189
+[2020.12.14-05.22.10:560][189]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161C5288F40), frame # 141189
+[2020.12.14-05.22.10:561][189]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2020.12.14-05.22.10:561][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004152s)
+[2020.12.14-05.22.10:623][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.12.14-05.22.10:623][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.22.10:623][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.22.10:623][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.22.10:623][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.22.10:624][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.22.10:624][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.22.10:624][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.22.10:624][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.22.10:624][189]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.22.10:624][189]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.22.10:626][189]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.22.10:626][189]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.22.10:636][189]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.22.10:636][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.22.10:636][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.22.10:636][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.22.10:637][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.22.10:650][189]LogInit: FAudioDevice initialized.
+[2020.12.14-05.22.10:659][189]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.22.10:660][189]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.22.10
+[2020.12.14-05.22.10:660][189]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.22.10:660][189]LogWorld: Bringing up level for play took: 0.000573
+[2020.12.14-05.22.10:660][189]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.12.14-05.22.10:661][189]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.22.10:661][189]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.22.10:662][189]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.22.10:662][189]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.22.10:662][189]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.22.10:662][189]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.22.10:662][189]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.22.10:663][189]PIE: 에디터에서 플레이 총 시작 시간 0.111초입니다.
+[2020.12.14-05.22.41:445][ 35]Set new viewmode: Wireframe
+[2020.12.14-05.22.45:762][294]Set new viewmode: Lit
+[2020.12.14-05.22.46:329][328]Set new viewmode: Lit_DetailLighting
+[2020.12.14-05.22.46:911][363]Set new viewmode: Lit
+[2020.12.14-05.22.47:279][385]Set new viewmode: Lit_DetailLighting
+[2020.12.14-05.22.50:128][556]Set new viewmode: Lit
+[2020.12.14-05.22.53:916][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.22.53:916][781]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.22.53:916][781]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.22.53:916][781]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.22.53:916][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.22.53:925][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.22.53:931][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.22.53:953][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.22.53:979][781]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161C5288F40), frame # 143781
+[2020.12.14-05.22.53:979][781]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001613C955C00), frame # 143781
+[2020.12.14-05.22.53:998][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.12.14-05.22.54:032][782]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.12.14-05.23.51:720][622]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.24.12:965][685]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.25.37:684][937]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.26.11:728][ 38]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.26.18:542][ 58]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.26.45:687][201]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.28.05:952][439]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.28.35:218][526]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.28.48:015][564]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.28.58:801][596]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.29.28:527][684]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.30.25:742][853]LogHotReload: New module detected: UE4Editor-ArenaBattle-0025.dll
+[2020.12.14-05.30.27:111][858]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.30.27:159][858]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-05.30.27:175][858]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.30.27:202][858]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.30.27:207][858]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.30.27:305][858]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.30.27:308][858]Display: HotReload took  0.2s.
+[2020.12.14-05.30.47:039][979]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.30.47:057][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.30.47:057][979]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:30:47)
+[2020.12.14-05.30.47:096][979]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.30.47:099][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001999s)
+[2020.12.14-05.30.47:099][979]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.30.47:099][979]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001620B62EE00), frame # 145979
+[2020.12.14-05.30.47:099][979]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E43A4180), frame # 145979
+[2020.12.14-05.30.47:100][979]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2020.12.14-05.30.47:100][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003119s)
+[2020.12.14-05.30.47:157][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.30.47:159][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.30.47:159][979]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.30.47:159][979]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.30.47:162][979]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.30.47:162][979]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.30.47:172][979]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.30.47:173][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.30.47:173][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.30.47:173][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.30.47:173][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.30.47:186][979]LogInit: FAudioDevice initialized.
+[2020.12.14-05.30.47:194][979]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.30.47:195][979]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.30.47
+[2020.12.14-05.30.47:195][979]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.30.47:195][979]LogWorld: Bringing up level for play took: 0.000567
+[2020.12.14-05.30.47:195][979]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.12.14-05.30.47:196][979]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.30.47:196][979]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.30.47:197][979]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.30.47:197][979]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.30.47:197][979]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.30.47:197][979]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.30.47:197][979]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.30.47:198][979]PIE: 에디터에서 플레이 총 시작 시간 0.144초입니다.
+[2020.12.14-05.31.27:867][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.31.27:867][ 43]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.31.27:867][ 43]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.31.27:867][ 43]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.31.27:867][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.31.27:874][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.31.27:878][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.31.27:915][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.31.27:916][ 43]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E43A4180), frame # 149043
+[2020.12.14-05.31.27:916][ 43]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001620B62EE00), frame # 149043
+[2020.12.14-05.31.27:919][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.12.14-05.31.27:954][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.12.14-05.32.11:127][392]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.32.31:976][453]LogHotReload: New module detected: UE4Editor-ArenaBattle-0026.dll
+[2020.12.14-05.32.33:020][457]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.32.33:116][457]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.32.33:141][457]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.32.33:145][457]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.32.33:232][457]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.32.33:234][457]Display: HotReload took  0.2s.
+[2020.12.14-05.33.12:669][662]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.33.12:688][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.33.12:688][662]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:33:12)
+[2020.12.14-05.33.12:688][662]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.33.12:690][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001926s)
+[2020.12.14-05.33.12:691][662]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.33.12:691][662]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161E65F1600), frame # 149662
+[2020.12.14-05.33.12:691][662]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161EF297D80), frame # 149662
+[2020.12.14-05.33.12:691][662]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2020.12.14-05.33.12:691][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002934s)
+[2020.12.14-05.33.12:754][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.33.12:755][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.33.12:755][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.33.12:756][662]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.33.12:756][662]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.33.12:759][662]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.33.12:759][662]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.33.12:776][662]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.33.12:776][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.33.12:776][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.33.12:776][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.33.12:777][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.33.12:799][662]LogInit: FAudioDevice initialized.
+[2020.12.14-05.33.12:812][662]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.33.12:813][662]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.33.12
+[2020.12.14-05.33.12:814][662]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.33.12:814][662]LogWorld: Bringing up level for play took: 0.000928
+[2020.12.14-05.33.12:814][662]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.12.14-05.33.12:816][662]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.33.12:816][662]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.33.12:817][662]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.33.12:817][662]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.33.12:817][662]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.33.12:817][662]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.33.12:817][662]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.33.12:819][662]PIE: 에디터에서 플레이 총 시작 시간 0.135초입니다.
+[2020.12.14-05.33.23:998][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.33.23:998][992]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.33.23:998][992]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.33.23:998][992]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.33.23:998][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.33.24:008][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.33.24:011][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.33.24:048][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.33.24:054][992]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161EF297D80), frame # 150992
+[2020.12.14-05.33.24:054][992]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161E65F1600), frame # 150992
+[2020.12.14-05.33.24:069][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.12.14-05.33.24:108][993]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.12.14-05.33.33:272][350]LogHotReload: New module detected: UE4Editor-ArenaBattle-0027.dll
+[2020.12.14-05.33.34:399][448]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.33.34:490][448]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.33.34:515][448]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.33.34:519][448]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.33.34:610][448]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.33.34:614][448]Display: HotReload took  0.2s.
+[2020.12.14-05.33.35:672][503]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.33.35:687][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.33.35:687][503]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:33:35)
+[2020.12.14-05.33.35:717][503]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.33.35:719][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001775s)
+[2020.12.14-05.33.35:719][503]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.33.35:719][503]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001620B401600), frame # 151503
+[2020.12.14-05.33.35:719][503]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161EE901E40), frame # 151503
+[2020.12.14-05.33.35:720][503]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2020.12.14-05.33.35:720][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002788s)
+[2020.12.14-05.33.35:778][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.33.35:779][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.33.35:779][503]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.33.35:779][503]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.33.35:781][503]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.33.35:782][503]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.33.35:791][503]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.33.35:791][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.33.35:791][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.33.35:791][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.33.35:792][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.33.35:805][503]LogInit: FAudioDevice initialized.
+[2020.12.14-05.33.35:813][503]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.33.35:814][503]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.33.35
+[2020.12.14-05.33.35:814][503]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.33.35:814][503]LogWorld: Bringing up level for play took: 0.000510
+[2020.12.14-05.33.35:814][503]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.12.14-05.33.35:815][503]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.33.35:815][503]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.33.35:816][503]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.33.35:816][503]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.33.35:816][503]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.33.35:816][503]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.33.35:816][503]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.33.35:817][503]PIE: 에디터에서 플레이 총 시작 시간 0.132초입니다.
+[2020.12.14-05.34.06:267][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.34.06:267][476]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.34.06:267][476]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.34.06:267][476]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.34.06:268][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.34.06:273][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.34.06:277][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.34.06:329][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.34.06:330][476]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161EE901E40), frame # 154476
+[2020.12.14-05.34.06:330][476]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001620B401600), frame # 154476
+[2020.12.14-05.34.06:336][476]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.12.14-05.34.06:376][477]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.12.14-05.34.11:058][561]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.34.25:969][855]LogHotReload: New module detected: UE4Editor-ArenaBattle-0028.dll
+[2020.12.14-05.34.27:152][953]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.34.27:238][953]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.34.27:260][953]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.34.27:263][953]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.34.27:351][953]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.34.27:355][953]Display: HotReload took  0.2s.
+[2020.12.14-05.35.19:098][600]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.35.19:110][600]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.14-05.35.33:969][721]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.36.22:022][864]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.37.53:570][135]LogHotReload: New module detected: UE4Editor-ArenaBattle-0029.dll
+[2020.12.14-05.37.54:942][140]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.37.55:079][140]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.37.55:087][140]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.37.55:232][140]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.37.55:234][140]Display: HotReload took  0.3s.
+[2020.12.14-05.38.13:036][229]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.38.13:053][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.38.13:053][229]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:38:13)
+[2020.12.14-05.38.13:053][229]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.38.13:055][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001921s)
+[2020.12.14-05.38.13:056][229]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.38.13:056][229]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161EE89FC00), frame # 160229
+[2020.12.14-05.38.13:056][229]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E3552AC0), frame # 160229
+[2020.12.14-05.38.13:056][229]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.12.14-05.38.13:056][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003037s)
+[2020.12.14-05.38.13:153][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.38.13:155][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.38.13:155][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.38.13:156][229]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.38.13:156][229]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.38.13:158][229]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.38.13:158][229]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.38.13:169][229]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.38.13:169][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.38.13:169][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.38.13:169][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.38.13:169][229]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.38.13:183][229]LogInit: FAudioDevice initialized.
+[2020.12.14-05.38.13:188][229]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.38.13:189][229]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.38.13
+[2020.12.14-05.38.13:189][229]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.38.13:189][229]LogWorld: Bringing up level for play took: 0.000548
+[2020.12.14-05.38.13:189][229]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.12.14-05.38.13:190][229]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.38.13:190][229]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.38.13:191][229]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.38.13:191][229]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.38.13:191][229]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.38.13:191][229]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.38.13:191][229]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.38.13:192][229]PIE: 에디터에서 플레이 총 시작 시간 0.143초입니다.
+[2020.12.14-05.38.35:368][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.38.35:368][754]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.38.35:368][754]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.38.35:369][754]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.38.35:369][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.38.35:380][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.38.35:385][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.38.35:425][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.38.35:438][754]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E3552AC0), frame # 162754
+[2020.12.14-05.38.35:438][754]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161EE89FC00), frame # 162754
+[2020.12.14-05.38.35:463][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.12.14-05.38.35:520][755]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.12.14-05.42.21:384][586]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.42.29:160][609]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.43.17:445][752]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.43.27:602][782]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.46.00:452][235]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.46.05:241][249]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.46.49:412][379]LogHotReload: New module detected: UE4Editor-ArenaBattle-0032.dll
+[2020.12.14-05.46.50:760][384]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.46.50:807][384]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.14-05.46.50:821][384]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.46.50:844][384]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.46.50:849][384]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.46.50:935][384]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.46.50:941][384]Display: HotReload took  0.2s.
+[2020.12.14-05.47.02:892][419]LogHotReload: New module detected: UE4Editor-ArenaBattle-0033.dll
+[2020.12.14-05.47.04:602][425]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.47.04:736][425]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.47.04:749][425]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.47.04:856][425]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.47.04:860][425]Display: HotReload took  0.3s.
+[2020.12.14-05.50.02:692][ 28]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.50.02:709][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.50.02:709][ 28]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:50:02)
+[2020.12.14-05.50.02:709][ 28]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.50.02:711][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001800s)
+[2020.12.14-05.50.02:712][ 28]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.50.02:712][ 28]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161C7DEDC00), frame # 165028
+[2020.12.14-05.50.02:712][ 28]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001620107EAC0), frame # 165028
+[2020.12.14-05.50.02:712][ 28]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.12.14-05.50.02:712][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002951s)
+[2020.12.14-05.50.02:800][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.50.02:801][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.50.02:801][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.50.02:802][ 28]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.50.02:802][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.50.02:804][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.50.02:804][ 28]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.50.02:816][ 28]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.50.02:816][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.50.02:816][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.50.02:816][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.50.02:816][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.50.02:830][ 28]LogInit: FAudioDevice initialized.
+[2020.12.14-05.50.02:839][ 28]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.50.02:840][ 28]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.50.02
+[2020.12.14-05.50.02:841][ 28]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.50.02:841][ 28]LogWorld: Bringing up level for play took: 0.000593
+[2020.12.14-05.50.02:841][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.50.02:842][ 28]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.50.02:843][ 28]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.50.02:844][ 28]PIE: 에디터에서 플레이 총 시작 시간 0.138초입니다.
+[2020.12.14-05.50.18:939][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.50.18:939][863]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.50.18:939][863]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.50.18:939][863]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.50.18:939][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.50.18:956][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.50.18:966][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.50.19:049][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.50.19:056][863]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001620107EAC0), frame # 166863
+[2020.12.14-05.50.19:056][863]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161C7DEDC00), frame # 166863
+[2020.12.14-05.50.19:077][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.12.14-05.50.19:107][864]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.12.14-05.50.33:521][937]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.50.39:235][953]LogHotReload: New module detected: UE4Editor-ArenaBattle-0034.dll
+[2020.12.14-05.50.40:267][957]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.50.40:352][957]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.50.40:375][957]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.50.40:379][957]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.50.40:471][957]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.50.40:473][957]Display: HotReload took  0.2s.
+[2020.12.14-05.50.44:120][991]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.50.44:147][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.50.44:147][991]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:50:44)
+[2020.12.14-05.50.44:179][991]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.50.44:182][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2020.12.14-05.50.44:183][991]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.50.44:183][991]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001619D6A4A00), frame # 166991
+[2020.12.14-05.50.44:183][991]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E6756200), frame # 166991
+[2020.12.14-05.50.44:183][991]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2020.12.14-05.50.44:183][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004404s)
+[2020.12.14-05.50.44:247][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.12.14-05.50.44:248][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.50.44:248][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.50.44:248][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.50.44:248][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.50.44:249][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.50.44:249][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.50.44:249][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.50.44:249][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.50.44:249][991]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.50.44:249][991]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.50.44:251][991]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.50.44:251][991]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.50.44:261][991]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.50.44:261][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.50.44:261][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.50.44:261][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.50.44:261][991]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.50.44:274][991]LogInit: FAudioDevice initialized.
+[2020.12.14-05.50.44:283][991]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.50.44:284][991]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.50.44
+[2020.12.14-05.50.44:284][991]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.50.44:284][991]LogWorld: Bringing up level for play took: 0.000516
+[2020.12.14-05.50.44:284][991]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.12.14-05.50.44:285][991]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.50.44:285][991]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.50.44:286][991]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.50.44:286][991]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.50.44:286][991]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.50.44:286][991]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.50.44:286][991]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.50.44:287][991]PIE: 에디터에서 플레이 총 시작 시간 0.145초입니다.
+[2020.12.14-05.50.48:669][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.50.48:669][508]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.50.48:670][508]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.50.48:670][508]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.50.48:670][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.50.48:678][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.50.48:684][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.50.48:752][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.50.48:759][508]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E6756200), frame # 167508
+[2020.12.14-05.50.48:759][508]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001619D6A4A00), frame # 167508
+[2020.12.14-05.50.48:777][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.12.14-05.50.48:812][509]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.12.14-05.50.54:927][635]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.50.59:617][648]LogHotReload: New module detected: UE4Editor-ArenaBattle-0035.dll
+[2020.12.14-05.51.01:000][653]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.51.01:093][653]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.51.01:115][653]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.51.01:120][653]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.51.01:199][653]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.51.01:201][653]Display: HotReload took  0.2s.
+[2020.12.14-05.51.02:833][700]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.51.02:848][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.51.02:848][700]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:51:02)
+[2020.12.14-05.51.02:849][700]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.51.02:850][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001729s)
+[2020.12.14-05.51.02:851][700]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.51.02:851][700]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001612AD71600), frame # 167700
+[2020.12.14-05.51.02:851][700]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161E14F6480), frame # 167700
+[2020.12.14-05.51.02:851][700]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.12.14-05.51.02:851][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002789s)
+[2020.12.14-05.51.02:907][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.51.02:909][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.51.02:909][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.51.02:909][700]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.51.02:910][700]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.51.02:912][700]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.51.02:912][700]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.51.02:923][700]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.51.02:924][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.51.02:924][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.51.02:924][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.51.02:924][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.51.02:948][700]LogInit: FAudioDevice initialized.
+[2020.12.14-05.51.02:959][700]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.51.02:960][700]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.14-14.51.02
+[2020.12.14-05.51.02:960][700]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.51.02:960][700]LogWorld: Bringing up level for play took: 0.000601
+[2020.12.14-05.51.02:960][700]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.12.14-05.51.02:961][700]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.51.02:961][700]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.51.02:962][700]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.51.02:962][700]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.51.02:962][700]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.51.02:962][700]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.51.02:962][700]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.51.02:963][700]PIE: 에디터에서 플레이 총 시작 시간 0.118초입니다.
+[2020.12.14-05.51.13:359][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.51.13:359][319]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.51.13:359][319]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.51.13:359][319]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.51.13:359][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.51.13:373][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.51.13:383][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.51.13:466][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.51.13:467][319]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161E14F6480), frame # 168319
+[2020.12.14-05.51.13:467][319]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001612AD71600), frame # 168319
+[2020.12.14-05.51.13:470][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.12.14-05.51.13:519][320]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.12.14-05.51.16:713][374]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.51.18:042][378]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.51.22:061][390]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.51.27:411][405]LogHotReload: New module detected: UE4Editor-ArenaBattle-0036.dll
+[2020.12.14-05.51.28:783][410]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.51.28:910][410]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.51.28:932][410]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.51.28:938][410]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.51.29:016][410]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.51.29:020][410]Display: HotReload took  0.2s.
+[2020.12.14-05.52.19:729][561]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.14-05.52.33:805][602]LogHotReload: New module detected: UE4Editor-ArenaBattle-0037.dll
+[2020.12.14-05.52.35:165][607]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.52.35:277][607]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.52.35:281][607]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.52.35:364][607]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.52.35:368][607]Display: HotReload took  0.2s.
+[2020.12.14-05.52.42:518][699]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.52.42:536][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.52.42:536][699]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:52:42)
+[2020.12.14-05.52.42:537][699]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.52.42:539][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002147s)
+[2020.12.14-05.52.42:540][699]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.52.42:540][699]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161D410D600), frame # 168699
+[2020.12.14-05.52.42:540][699]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000161F122BD80), frame # 168699
+[2020.12.14-05.52.42:540][699]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2020.12.14-05.52.42:540][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003882s)
+[2020.12.14-05.52.42:629][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.52.42:630][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.52.42:630][699]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.52.42:630][699]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.52.42:632][699]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.52.42:632][699]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.52.42:644][699]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.52.42:644][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.52.42:644][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.52.42:644][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.52.42:644][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.52.42:658][699]LogInit: FAudioDevice initialized.
+[2020.12.14-05.52.42:665][699]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.52.42:665][699]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.52.42
+[2020.12.14-05.52.42:665][699]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.52.42:666][699]LogWorld: Bringing up level for play took: 0.000571
+[2020.12.14-05.52.42:666][699]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.52.42:667][699]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.52.42:667][699]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.52.42:668][699]PIE: 에디터에서 플레이 총 시작 시간 0.135초입니다.
+[2020.12.14-05.53.03:879][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.53.03:879][849]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.53.03:880][849]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.53.03:880][849]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.53.03:880][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.53.03:892][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.53.03:896][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.53.03:940][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.53.03:941][849]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000161F122BD80), frame # 170849
+[2020.12.14-05.53.03:941][849]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161D410D600), frame # 170849
+[2020.12.14-05.53.03:949][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.12.14-05.53.03:986][850]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.12.14-05.53.18:268][938]LogHotReload: New module detected: UE4Editor-ArenaBattle-0038.dll
+[2020.12.14-05.53.19:639][943]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.53.19:718][943]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.53.19:740][943]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.53.19:744][943]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.53.19:837][943]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.53.19:840][943]Display: HotReload took  0.2s.
+[2020.12.14-05.53.21:742][ 83]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.53.21:761][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.53.21:761][ 83]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:53:21)
+[2020.12.14-05.53.21:789][ 83]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.53.21:792][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002107s)
+[2020.12.14-05.53.21:792][ 83]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.53.21:792][ 83]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161F110C200), frame # 171083
+[2020.12.14-05.53.21:792][ 83]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001620B6691C0), frame # 171083
+[2020.12.14-05.53.21:793][ 83]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2020.12.14-05.53.21:793][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003229s)
+[2020.12.14-05.53.21:849][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.53.21:850][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.53.21:851][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.53.21:851][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.53.21:851][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.53.21:851][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.53.21:853][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.53.21:853][ 83]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.53.21:863][ 83]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.53.21:863][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.53.21:863][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.53.21:863][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.53.21:864][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.53.21:877][ 83]LogInit: FAudioDevice initialized.
+[2020.12.14-05.53.21:886][ 83]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.53.21:888][ 83]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.53.21
+[2020.12.14-05.53.21:888][ 83]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.53.21:888][ 83]LogWorld: Bringing up level for play took: 0.001040
+[2020.12.14-05.53.21:888][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.12.14-05.53.21:891][ 83]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.53.21:891][ 83]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.53.21:892][ 83]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.53.21:892][ 83]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.53.21:892][ 83]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.53.21:892][ 83]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.53.21:893][ 83]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.53.21:894][ 83]PIE: 에디터에서 플레이 총 시작 시간 0.136초입니다.
+[2020.12.14-05.53.42:820][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.53.42:820][953]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.53.42:820][953]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.53.42:820][953]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.53.42:820][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.53.42:832][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.53.42:837][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.53.42:875][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.53.42:882][953]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001620B6691C0), frame # 172953
+[2020.12.14-05.53.42:882][953]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161F110C200), frame # 172953
+[2020.12.14-05.53.42:897][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.14-05.53.42:972][954]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.12.14-05.54.11:006][132]LogHotReload: New module detected: UE4Editor-ArenaBattle-0039.dll
+[2020.12.14-05.54.12:081][224]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.54.12:167][224]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.54.12:189][224]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.54.12:195][224]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.54.12:301][224]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.54.12:304][224]Display: HotReload took  0.2s.
+[2020.12.14-05.54.13:154][249]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.14-05.54.13:181][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.14-05.54.13:181][249]PIE: New page: PIE 세션: Step2 (2020. 12. 14. 오후 11:54:13)
+[2020.12.14-05.54.13:219][249]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.54.13:222][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2020.12.14-05.54.13:223][249]LogAIModule: Creating AISystem for world Step2
+[2020.12.14-05.54.13:223][249]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000161A530B400), frame # 173249
+[2020.12.14-05.54.13:223][249]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001620B6856C0), frame # 173249
+[2020.12.14-05.54.13:223][249]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2020.12.14-05.54.13:223][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.004138s)
+[2020.12.14-05.54.13:302][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.14-05.54.13:304][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.14-05.54.13:304][249]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.14-05.54.13:304][249]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.14-05.54.13:306][249]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.14-05.54.13:306][249]LogAudioMixer: Display: 1: FrontRight
+[2020.12.14-05.54.13:314][249]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.14-05.54.13:314][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.14-05.54.13:314][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.14-05.54.13:314][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.14-05.54.13:314][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.14-05.54.13:328][249]LogInit: FAudioDevice initialized.
+[2020.12.14-05.54.13:340][249]LogLoad: Game class is 'ABGameMode'
+[2020.12.14-05.54.13:341][249]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.14-14.54.13
+[2020.12.14-05.54.13:341][249]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.14-05.54.13:341][249]LogWorld: Bringing up level for play took: 0.000826
+[2020.12.14-05.54.13:342][249]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.12.14-05.54.13:343][249]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.14-05.54.13:343][249]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.14-05.54.13:344][249]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.14-05.54.13:344][249]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.14-05.54.13:344][249]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.14-05.54.13:344][249]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.14-05.54.13:345][249]PIE: 서버가 로그인했습니다.
+[2020.12.14-05.54.13:345][249]PIE: 에디터에서 플레이 총 시작 시간 0.17초입니다.
+[2020.12.14-05.54.20:730][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.54.20:730][ 45]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.14-05.54.20:730][ 45]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.14-05.54.20:730][ 45]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.14-05.54.20:730][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.54.20:738][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.14-05.54.20:742][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.14-05.54.20:780][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.14-05.54.20:787][ 45]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001620B6856C0), frame # 174045
+[2020.12.14-05.54.20:787][ 45]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000161A530B400), frame # 174045
+[2020.12.14-05.54.20:802][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.12.14-05.54.20:836][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.12.14-05.54.31:113][ 98]LogHotReload: New module detected: UE4Editor-ArenaBattle-0040.dll
+[2020.12.14-05.54.32:839][104]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.14-05.54.32:935][104]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.14-05.54.32:955][104]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2020.12.14-05.54.32:959][104]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.14-05.54.33:038][104]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3433 classes and 825 folders.
+[2020.12.14-05.54.33:041][104]Display: HotReload took  0.2s.
