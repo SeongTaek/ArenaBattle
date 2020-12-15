@@ -8,6 +8,7 @@
 #include "DrawDebugHelpers.h"
 #include "Components/WidgetComponent.h"
 #include "ABCharacterWidget.h"
+#include "ABAIController.h"
 
 // Sets default values
 AABCharacter::AABCharacter()
@@ -49,8 +50,6 @@ AABCharacter::AABCharacter()
 		HPBarWidget->SetDrawSize(FVector2D(150.0f, 50.0f));
 	}
 
-	SetControlMode(EControlMode::GTA);
-
 	ArmLengthSpeed = 3.0f;
 	ArmRotationSpeed = 10.0f;
 	GetCharacterMovement()->JumpZVelocity = 800.0f;
@@ -60,6 +59,9 @@ AABCharacter::AABCharacter()
 	GetCapsuleComponent()->SetCollisionProfileName(TEXT("ABCharacter"));
 	AttackRange = 200.0f;
 	AttackRadius = 50.0f;
+
+	AIControllerClass = AABAIController::StaticClass();
+	AutoPossessAI = EAutoPossessAI::PlacedInWorldOrSpawned;
 }
 
 // Called when the game starts or when spawned
@@ -109,6 +111,12 @@ void AABCharacter::SetControlMode(EControlMode NewControlMode)
 		GetCharacterMovement()->bOrientRotationToMovement = false;
 		GetCharacterMovement()->bUseControllerDesiredRotation = true;
 		GetCharacterMovement()->RotationRate = FRotator(0.0f, 720.0f, 0.0f);
+		break;
+	case EControlMode::NPC:
+		bUseControllerRotationYaw = false;
+		GetCharacterMovement()->bOrientRotationToMovement = true;
+		GetCharacterMovement()->bUseControllerDesiredRotation = false;
+		GetCharacterMovement()->RotationRate = FRotator(0.0f, 480.0f, 0.0f);
 		break;
 	default:
 		break;
@@ -180,6 +188,22 @@ float AABCharacter::TakeDamage(float Damage, FDamageEvent const& DamageEvent, AC
 	CharacterStat->SetDamage(FinalDamage);
 
 	return FinalDamage;
+}
+
+void AABCharacter::PossessedBy(AController* NewController)
+{
+	Super::PossessedBy(NewController);
+
+	if (IsPlayerControlled())
+	{
+		SetControlMode(EControlMode::GTA);
+		GetCharacterMovement()->MaxWalkSpeed = 600.0f;
+	}
+	else
+	{
+		SetControlMode(EControlMode::NPC);
+		GetCharacterMovement()->MaxWalkSpeed = 300.0f;
+	}
 }
 
 // Called to bind functionality to input
@@ -284,6 +308,7 @@ void AABCharacter::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted
 	ABCHECK(CurrentCombo > 0);
 	IsAttacking = false;
 	AttackEndComboState();
+	OnAttackEnd.Broadcast();
 }
 
 void AABCharacter::AttackStartComboState()
