@@ -836,3 +836,1195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.15-03.56.49:150][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
 [2020.12.15-03.56.49:186][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2020.12.15-03.56.52:177][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.12.15-04.13.48:412][364]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/ArenaBattle/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.15-04.13.48:412][364]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/ArenaBattle/Content/Developers/ljslo/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.15-04.13.48:412][364]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/ArenaBattle/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.15-04.14.22:125][  3]LogTexture: Display: 텍스처 빌드: T_FogPlane01_Clouds (AutoDXT, 512X512)
+[2020.12.15-04.14.22:154][  3]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/InfinityBladeWeapons/Effects/FX/T_FogPlane01_Clouds.T_FogPlane01_Clouds
+[2020.12.15-04.14.22:170][  3]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.15-04.14.24:312][186]LogSlate: Window 'T_FogPlane01_Clouds' being destroyed
+[2020.12.15-04.14.34:621][ 17]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_BohntaPick/SK_Blade_BohntaPick_Skeleton.SK_Blade_BohntaPick_Skeleton
+[2020.12.15-04.14.34:665][ 17]LogTexture: Display: 텍스처 빌드: T_Blade_BohntaPick1_D (AutoDXT, 256X256)
+[2020.12.15-04.14.34:665][ 17]LogTexture: Display: 텍스처 빌드: T_Blade_BohntaPick2_D (AutoDXT, 256X256)
+[2020.12.15-04.14.34:665][ 17]LogTexture: Display: 텍스처 빌드: T_Blade_BohntaPick1_N (BC5, 256X256)
+[2020.12.15-04.14.34:665][ 17]LogTexture: Display: 텍스처 빌드: T_Blade_BohntaPick2_N (BC5, 256X256)
+[2020.12.15-04.14.34:665][ 17]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_BohntaPick...
+[2020.12.15-04.14.34:669][ 17]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_BohntaPick/SK_Blade_BohntaPick.SK_Blade_BohntaPick
+[2020.12.15-04.14.34:671][ 17]LogMaterial: Display: Missing cached shader map for material M_Blade_BohntaPick, compiling. 
+[2020.12.15-04.14.34:733][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.14.35:142][ 17]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-04.14.38:912][213]LogSlate: Window 'SK_Blade_BohntaPick_Skeleton' being destroyed
+[2020.12.15-04.14.38:923][213]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.14.38:923][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.15.01:799][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_M (AutoDXT, 256X256)
+[2020.12.15-04.15.01:799][751]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_BlackKnight...
+[2020.12.15-04.15.01:799][751]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight/SK_Blade_BlackKnight.SK_Blade_BlackKnight
+[2020.12.15-04.15.01:853][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_M (AutoDXT, 256X256)
+[2020.12.15-04.15.01:853][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_N (BC5, 256X256)
+[2020.12.15-04.15.01:853][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword2_D (AutoDXT, 256X256)
+[2020.12.15-04.15.01:853][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_D (AutoDXT, 256X256)
+[2020.12.15-04.15.01:853][751]LogTexture: Display: 텍스처 빌드: T_Blade_BlackKnight_Sword1_N (BC5, 256X256)
+[2020.12.15-04.15.01:853][751]LogMaterial: Display: Missing cached shader map for material M_Blade_BlackKnight, compiling. 
+[2020.12.15-04.15.09:178][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.15-04.15.17:344][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NormalMap)
+[2020.12.15-04.16.06:891][ 36]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard
+[2020.12.15-04.16.06:902][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.16.41:771][  6]Cmd: TRANSACTION UNDO
+[2020.12.15-04.16.41:772][  6]LogEditorTransaction: Undo 소켓 회전
+[2020.12.15-04.16.41:842][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.16.44:573][136]Cmd: TRANSACTION UNDO
+[2020.12.15-04.16.44:573][136]LogEditorTransaction: Undo 액터 클릭
+[2020.12.15-04.16.44:660][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.16.45:360][165]Cmd: TRANSACTION UNDO
+[2020.12.15-04.16.45:360][165]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2020.12.15-04.16.45:433][165]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.17.27:314][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.12.15-04.17.27:316][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.15-04.17.27:339][591]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step2_Auto13995B19140BD145CCA5A3DA9C91A3C31.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto1.umap'
+[2020.12.15-04.17.27:340][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.088
+[2020.12.15-04.17.27:340][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2020.12.15-04.17.27:340][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.12.15-04.17.27:341][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2020.12.15-04.17.27:351][591]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_Mannequin_Skeleton_Auto15620F817422210AAFD2310823F0EDB76.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2020.12.15-04.17.27:352][591]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.12.15-04.19.31:381][183]Cmd: TRANSACTION UNDO
+[2020.12.15-04.19.31:381][183]LogEditorTransaction: Undo 소켓 이동
+[2020.12.15-04.19.31:449][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.19.51:940][328]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2020.12.15-04.19.51:950][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.19.56:851][593]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Book/Animations/SK_Mannequin_Skeleton_Montage.SK_Mannequin_Skeleton_Montage
+[2020.12.15-04.19.56:868][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.19.58:766][667]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Book/Animations/WarriorAnimBlueprint.WarriorAnimBlueprint
+[2020.12.15-04.19.58:785][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.22.20:070][654]Cmd: TRANSACTION UNDO
+[2020.12.15-04.22.20:070][654]LogEditorTransaction: Undo 소켓 회전
+[2020.12.15-04.22.20:381][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.22.20:381][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.22.20:382][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.22.20:390][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.22.43:232][929]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.22.43:233][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.22.43:239][929]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.22.43:239][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.22.43:366][929]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.22.43:366][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.23.08:785][415]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_CharM_CardboardC1CCE6514F0E221D05D658A896C5A364.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.uasset'
+[2020.12.15-04.23.08:805][415]AssetCheck: New page: 애셋 저장: SK_CharM_Cardboard
+[2020.12.15-04.23.08:805][415]LogContentValidation: Display: SkeletalMesh /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.SK_CharM_Cardboard 유효성 검사
+[2020.12.15-04.23.10:586][511]LogSlate: Window 'SK_CharM_Cardboard' being destroyed
+[2020.12.15-04.23.12:671][636]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.23.12:671][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.23.12:793][636]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.23.12:793][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.23.14:532][740]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.23.14:532][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.24.01:174][233]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.25.11:293][443]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.25.31:354][503]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.26.06:038][607]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.26.59:151][766]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.27.17:188][819]LogHotReload: New module detected: UE4Editor-ArenaBattle-0089.dll
+[2020.12.15-04.27.18:200][823]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.27.18:255][823]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.27.18:255][823]LogClass: Function OnAttackMontageEnded is new.
+[2020.12.15-04.27.18:262][823]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.27.18:268][823]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.27.18:268][823]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.27.18:270][823]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.27.18:300][823]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2020.12.15-04.27.18:305][823]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.27.18:419][823]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3435 classes and 827 folders.
+[2020.12.15-04.27.18:422][823]Display: HotReload took  0.2s.
+[2020.12.15-04.27.21:531][931]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-04.27.21:549][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-04.27.21:549][931]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 10:27:21)
+[2020.12.15-04.27.21:569][931]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.27.21:570][931]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.27.21:576][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007183s)
+[2020.12.15-04.27.21:577][931]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-04.27.21:577][931]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6AFCB0800), frame # 53931
+[2020.12.15-04.27.21:577][931]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6C9ABFB00), frame # 53931
+[2020.12.15-04.27.21:578][931]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.12.15-04.27.21:578][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.008516s)
+[2020.12.15-04.27.21:695][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.12.15-04.27.21:704][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-04.27.21:705][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-04.27.21:705][931]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-04.27.21:705][931]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-04.27.21:707][931]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-04.27.21:707][931]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-04.27.21:719][931]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-04.27.21:719][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-04.27.21:719][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-04.27.21:719][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-04.27.21:720][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-04.27.21:732][931]LogInit: FAudioDevice initialized.
+[2020.12.15-04.27.21:737][931]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-04.27.21:738][931]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.15-13.27.21
+[2020.12.15-04.27.21:739][931]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-04.27.21:739][931]LogWorld: Bringing up level for play took: 0.001029
+[2020.12.15-04.27.21:739][931]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.12.15-04.27.21:740][931]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-04.27.21:740][931]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-04.27.21:740][931]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.27.21:741][931]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-04.27.21:741][931]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-04.27.21:741][931]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-04.27.21:741][931]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-04.27.21:741][931]PIE: 서버가 로그인했습니다.
+[2020.12.15-04.27.21:741][931]PIE: 에디터에서 플레이 총 시작 시간 0.196초입니다.
+[2020.12.15-04.27.22:575][ 22]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.23:232][101]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.23:232][101]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(149)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.27.24:039][197]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.27.24:356][235]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.25:014][314]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.25:014][314]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.27.25:015][314]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.27.25:656][391]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.25:656][391]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.27.25:656][391]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.27.26:331][472]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.26:331][472]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.27.26:331][472]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.27.28:166][692]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.27.29:262][823]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.29:921][902]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.29:921][902]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.27.29:921][902]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.27.30:178][933]ArenaBattle: Warning: AABCharacter::AttackCheck(325)Hit Actor Name : ABCharacter_1
+[2020.12.15-04.27.30:178][933]ArenaBattle: Warning: AABCharacter::TakeDamage(164)Actor : ABCharacter_1 took Damage : 50.000000
+[2020.12.15-04.27.30:561][979]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.30:561][979]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.27.30:561][979]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.27.31:234][ 59]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.31:234][ 59]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.27.31:234][ 59]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.27.33:079][170]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.27.33:229][179]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.33:512][196]ArenaBattle: Warning: AABCharacter::AttackCheck(325)Hit Actor Name : Fountain_1
+[2020.12.15-04.27.33:878][218]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.33:878][218]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.27.33:878][218]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.27.34:528][257]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.34:528][257]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.27.34:528][257]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.27.35:195][297]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.35:195][297]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.27.35:195][297]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.27.37:029][407]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.27.37:145][414]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.37:797][481]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.37:797][481]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.27.37:797][481]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.27.38:430][557]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.38:430][557]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.27.38:430][557]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.27.39:113][639]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.39:113][639]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.27.39:113][639]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.27.40:947][859]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.27.41:313][903]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.27.41:972][982]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.27.41:972][982]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(149)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.27.42:784][ 46]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.28.15:443][710]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.28.16:092][749]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.16:092][749]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.28.16:092][749]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.28.16:358][765]ArenaBattle: Warning: AABCharacter::AttackCheck(325)Hit Actor Name : Fountain_1
+[2020.12.15-04.28.16:742][788]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.16:742][788]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.28.16:742][788]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.28.17:408][835]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.17:408][835]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.28.17:408][835]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.28.19:242][ 55]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.28.19:276][ 59]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.28.19:933][138]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.19:934][138]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.28.19:934][138]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.28.20:575][215]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.20:575][215]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.28.20:575][215]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.28.21:244][295]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.21:244][295]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.28.21:244][295]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.28.23:078][405]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.28.23:312][419]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.28.23:961][458]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.23:961][458]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 1
+[2020.12.15-04.28.23:961][458]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.28.24:611][497]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.24:611][497]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 2
+[2020.12.15-04.28.24:611][497]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.28.25:277][537]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(146)OnNextAttackCheck
+[2020.12.15-04.28.25:277][537]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_e7f89aea5563acaa0df5128d8cb2f9fd>::operator ()(150)CurrentCombo : 3
+[2020.12.15-04.28.25:277][537]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.28.27:060][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.28.27:060][642]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.28.27:061][642]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-04.28.27:061][642]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.28.27:061][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.28.27:065][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-04.28.27:068][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.28.27:083][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.28.27:098][642]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6AFCB0800), frame # 59642
+[2020.12.15-04.28.27:098][642]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6C9ABFB00), frame # 59642
+[2020.12.15-04.28.27:101][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.12.15-04.28.27:139][643]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.15-04.28.28:204][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.15-04.28.28:245][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.15-04.28.28:260][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.15-04.28.28:279][756]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step26CBA360C499E0D6CA24E9A8C35CFE358.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2020.12.15-04.28.28:308][756]LogFileHelpers: Saving map 'Step2' took 0.064
+[2020.12.15-04.28.28:333][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Animations/SK_Mannequin_Skeleton_Montage" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Animations/SK_Mannequin_Skeleton_Montage.uasset" SILENT=true
+[2020.12.15-04.28.28:348][756]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_Mannequin_Skeleton_MontageEA142D144F713A7813D83FBB064768B7.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Animations/SK_Mannequin_Skeleton_Montage.uasset'
+[2020.12.15-04.28.28:359][756]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SK_Mannequin_SkeletonD97405E94404A205ED22CF82DE27CA17.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2020.12.15-04.28.28:387][756]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.12.15-04.28.28:387][756]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사
+[2020.12.15-04.28.28:387][756]LogContentValidation: Display: AnimMontage /Game/Book/Animations/SK_Mannequin_Skeleton_Montage.SK_Mannequin_Skeleton_Montage 유효성 검사
+[2020.12.15-04.28.28:388][756]LogContentValidation: Display: Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton 유효성 검사
+[2020.12.15-04.28.50:502][123]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.15-04.28.50:503][123]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.15-04.28.52:464][315]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.15-04.29.00:572][ 81]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2020.12.15-04.29.00:875][ 81]Discovering modules, targets and source code for project...
+[2020.12.15-04.29.03:191][ 81]Binding IntelliSense data...
+[2020.12.15-04.29.09:353][ 81]Binding IntelliSense data... 100%
+[2020.12.15-04.29.09:353][ 81]Writing project files...
+[2020.12.15-04.29.12:985][ 81]Writing project files... 100%
+[2020.12.15-04.29.13:210][ 81]Candidate modules for hot reload:
+[2020.12.15-04.29.13:210][ 81]  ArenaBattle
+[2020.12.15-04.29.13:210][ 81]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,6284 ArenaBattleEditor Win64 Development -Project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" "D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: New page: 컴파일 - 2020. 12. 15. 오후 10:29:23
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\ArenaBattle).
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal Projects\ArenaBattle\ArenaBattle.uproject" "D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ljslo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 5.051193 seconds
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Building ArenaBattleEditor...
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: License is invalid:
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog:     This build will run in standalone mode.
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: 
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: ArenaBattle.init.gen.cpp (0:00.56 at +0:00)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: ABWeapon.gen.cpp (0:00.62 at +0:00)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: ABWeapon.cpp (0:00.48 at +0:01)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: UE4Editor-ArenaBattle-6284.dll (0:00.70 at +0:01)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6284.suppressed.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6284.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: UE4Editor-ArenaBattle-6284.lib (0:00.10 at +0:02)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6284.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-6284.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: ArenaBattleEditor.target (0:00.15 at +0:02)
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.12.15-04.29.23:132][ 81]CompilerResultsLog: 
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog: 
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog: 1 build system warning(s):
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog:    - License is invalid
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog: 
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog: Total time in XGE executor: 2.80 seconds
+[2020.12.15-04.29.23:133][ 81]CompilerResultsLog: Total execution time: 9.80 seconds
+[2020.12.15-04.29.23:133][ 81]LogMainFrame: MainFrame: Module compiling took 9.928 seconds
+[2020.12.15-04.29.23:175][ 81]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.29.23:179][ 81]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.29.23:180][ 81]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.29.23:180][ 81]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.29.23:181][ 81]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.29.23:199][ 81]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2020.12.15-04.29.23:201][ 81]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.29.23:261][ 81]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3436 classes and 827 folders.
+[2020.12.15-04.29.23:261][ 81]Display: HotReload took 10.1s.
+[2020.12.15-04.29.23:264][ 81]Warning: HotReload operation took 10.1s.
+[2020.12.15-04.29.23:803][ 81]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.12.15-04.29.24:194][ 81]LogHotReload: New module detected: UE4Editor-ArenaBattle-6284.dll
+[2020.12.15-04.29.24:298][ 82]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.29.24:374][ 82]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2020.12.15-04.29.24:377][ 82]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.29.24:394][ 82]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3436 classes and 827 folders.
+[2020.12.15-04.29.24:404][ 82]Display: HotReload took  0.1s.
+[2020.12.15-04.29.24:477][ 82]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.33.46:466][867]LogHotReload: New module detected: UE4Editor-ArenaBattle-0091.dll
+[2020.12.15-04.34.10:552][939]LogHotReload: New module detected: UE4Editor-ArenaBattle-0092.dll
+[2020.12.15-04.34.11:567][943]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.34.11:676][943]LogClass: Could not find existing class ABWeapon in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.34.11:682][943]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.34.11:683][943]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.34.11:683][943]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.34.11:685][943]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.34.11:711][943]LogHotReload: Re-instancing ABWeapon after hot-reload.
+[2020.12.15-04.34.11:733][943]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2020.12.15-04.34.11:737][943]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.34.11:826][943]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3436 classes and 827 folders.
+[2020.12.15-04.34.11:828][943]Display: HotReload took  0.3s.
+[2020.12.15-04.34.12:957][946]ArenaBattle: Warning: AABCharacter::AttackEndComboState(291)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.34.15:908][190]LogEditor: Attempting to add actor of class 'ABWeapon' to level at -1575.00,390.00,35.00
+[2020.12.15-04.34.16:388][218]LogEditor: Attempting to add actor of class 'ABWeapon' to level at -950.00,-280.00,35.00
+[2020.12.15-04.34.21:637][526]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Blade_BlackKnight)
+[2020.12.15-04.34.23:023][607]Cmd: DELETE
+[2020.12.15-04.34.23:023][607]Cmd: ACTOR DELETE
+[2020.12.15-04.34.23:026][607]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.12.15-04.34.23:151][607]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.12.15-04.34.23:156][607]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2020.12.15-04.34.23:523][642]LogEditorViewport: Clicking on Actor (LMB): ABWeapon (ABWeapon1)
+[2020.12.15-04.34.23:851][676]Cmd: DELETE
+[2020.12.15-04.34.23:851][676]Cmd: ACTOR DELETE
+[2020.12.15-04.34.23:852][676]LogEditorActor: Deleted Actor: ABWeapon
+[2020.12.15-04.34.23:893][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.15-04.34.23:894][676]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.12.15-04.34.26:042][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.15-04.34.26:082][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.15-04.34.26:097][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.15-04.34.26:119][922]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step284E5A640452EE7A61DF119ADA3B44B17.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Maps/Step2.umap'
+[2020.12.15-04.34.26:148][922]LogFileHelpers: Saving map 'Step2' took 0.066
+[2020.12.15-04.34.26:156][922]AssetCheck: New page: 애셋 저장: Step2
+[2020.12.15-04.34.26:156][922]LogContentValidation: Display: World /Game/Book/Maps/Step2.Step2 유효성 검사
+[2020.12.15-04.35.54:047][205]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.36.05:049][238]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.36.26:056][301]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.37.43:819][534]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.37.44:488][536]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.37.56:491][571]LogHotReload: New module detected: UE4Editor-ArenaBattle-0093.dll
+[2020.12.15-04.37.57:512][575]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.37.57:575][575]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.37.57:575][575]LogClass: Function OnAttackMontageEnded is new.
+[2020.12.15-04.37.57:581][575]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.37.57:587][575]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.37.57:587][575]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.37.57:589][575]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.37.57:612][575]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2020.12.15-04.37.57:615][575]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.37.57:675][575]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 3436 classes and 827 folders.
+[2020.12.15-04.37.57:686][575]Display: HotReload took  0.2s.
+[2020.12.15-04.38.12:579][624]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.38.14:750][842]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-04.38.14:768][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-04.38.14:768][842]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 10:38:14)
+[2020.12.15-04.38.14:768][842]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.38.14:769][842]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.38.14:771][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2020.12.15-04.38.14:772][842]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-04.38.14:772][842]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B69E86BE00), frame # 63842
+[2020.12.15-04.38.14:772][842]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6ACA7AAC0), frame # 63842
+[2020.12.15-04.38.14:772][842]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2020.12.15-04.38.14:772][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003708s)
+[2020.12.15-04.38.14:821][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-04.38.14:822][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-04.38.14:822][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-04.38.14:823][842]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-04.38.14:823][842]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-04.38.14:825][842]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-04.38.14:825][842]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-04.38.14:837][842]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-04.38.14:837][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-04.38.14:837][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-04.38.14:837][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-04.38.14:837][842]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-04.38.14:848][842]LogInit: FAudioDevice initialized.
+[2020.12.15-04.38.14:860][842]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-04.38.14:862][842]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.15-13.38.14
+[2020.12.15-04.38.14:862][842]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-04.38.14:862][842]LogWorld: Bringing up level for play took: 0.001035
+[2020.12.15-04.38.14:862][842]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.12.15-04.38.14:863][842]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-04.38.14:863][842]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-04.38.14:863][842]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.38.14:864][842]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-04.38.14:864][842]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-04.38.14:864][842]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-04.38.14:864][842]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-04.38.14:864][842]PIE: 서버가 로그인했습니다.
+[2020.12.15-04.38.14:865][842]PIE: 에디터에서 플레이 총 시작 시간 0.101초입니다.
+[2020.12.15-04.38.15:462][910]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.38.16:119][989]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.38.16:119][989]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(143)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.38.16:919][ 85]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.38.18:028][218]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.38.18:688][297]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.38.18:688][297]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(144)CurrentCombo : 1
+[2020.12.15-04.38.18:688][297]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 2
+[2020.12.15-04.38.18:945][328]ArenaBattle: Warning: AABCharacter::AttackCheck(319)Hit Actor Name : ABCharacter_1
+[2020.12.15-04.38.18:945][328]ArenaBattle: Warning: AABCharacter::TakeDamage(158)Actor : ABCharacter_1 took Damage : 50.000000
+[2020.12.15-04.38.19:329][374]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.38.19:329][374]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(144)CurrentCombo : 2
+[2020.12.15-04.38.19:329][374]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 3
+[2020.12.15-04.38.20:003][455]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.38.20:004][455]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(144)CurrentCombo : 3
+[2020.12.15-04.38.20:004][455]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 4
+[2020.12.15-04.38.21:837][675]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 4
+[2020.12.15-04.38.24:470][858]LogEditorViewport: Clicking on Actor (LMB): ABCharacter (ABCharacter1)
+[2020.12.15-04.38.28:861][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.38.28:861][ 89]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.38.28:861][ 89]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-04.38.28:862][ 89]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.38.28:862][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.38.28:867][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-04.38.28:870][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.38.28:902][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.38.28:913][ 89]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6ACA7AAC0), frame # 65089
+[2020.12.15-04.38.28:913][ 89]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B69E86BE00), frame # 65089
+[2020.12.15-04.38.28:919][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.12.15-04.38.28:974][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.12.15-04.38.39:634][952]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.12.15-04.38.39:634][952]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.12.15-04.38.45:279][554]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.12.15-04.38.51:608][  1]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2020.12.15-04.38.51:912][  1]Discovering modules, targets and source code for project...
+[2020.12.15-04.38.53:122][  1]Binding IntelliSense data...
+[2020.12.15-04.38.54:656][  1]Binding IntelliSense data... 100%
+[2020.12.15-04.38.54:757][  1]Writing project files...
+[2020.12.15-04.38.58:081][  1]Writing project files... 100%
+[2020.12.15-04.38.58:270][  1]Candidate modules for hot reload:
+[2020.12.15-04.38.58:270][  1]  ArenaBattle
+[2020.12.15-04.38.58:270][  1]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,7584 ArenaBattleEditor Win64 Development -Project="D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject" "D:/Unreal Projects/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: New page: 컴파일 - 2020. 12. 15. 오후 10:39:07
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\ArenaBattle).
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal Projects\ArenaBattle\ArenaBattle.uproject" "D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ljslo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Reflection code generated for ArenaBattleEditor in 4.5113766 seconds
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Building ArenaBattleEditor...
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: License is invalid:
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:     This build will run in standalone mode.
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: 
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: ArenaBattle.init.gen.cpp (0:00.54 at +0:00)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: ABItemBox.gen.cpp (0:00.62 at +0:00)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: ABItemBox.cpp (0:00.48 at +0:01)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: UE4Editor-ArenaBattle-7584.dll (0:00.62 at +0:01)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-7584.suppressed.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-7584.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: UE4Editor-ArenaBattle-7584.lib (0:00.12 at +0:02)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:    D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-7584.lib ???̺귯?? ?? D:\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle-7584.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: ArenaBattleEditor.target (0:00.15 at +0:02)
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: 
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: 
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: 1 build system warning(s):
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog:    - License is invalid
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: 
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Total time in XGE executor: 2.71 seconds
+[2020.12.15-04.39.07:268][  1]CompilerResultsLog: Total execution time: 8.91 seconds
+[2020.12.15-04.39.07:268][  1]LogMainFrame: MainFrame: Module compiling took 9.005 seconds
+[2020.12.15-04.39.07:295][  1]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.39.07:301][  1]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.39.07:302][  1]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.39.07:302][  1]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.39.07:304][  1]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.39.07:322][  1]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.39.07:324][  1]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.39.07:385][  1]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.39.07:385][  1]Display: HotReload took  9.2s.
+[2020.12.15-04.39.07:385][  1]Warning: HotReload operation took  9.2s.
+[2020.12.15-04.39.07:694][  1]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'D:/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABItemBox.h'
+[2020.12.15-04.39.07:699][  1]LogVSAccessor: Warning: Couldn't open file 'D:/Unreal Projects/ArenaBattle/Source/ArenaBattle/ABItemBox.cpp'.
+[2020.12.15-04.39.07:702][  1]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.12.15-04.39.08:044][  2]LogHotReload: New module detected: UE4Editor-ArenaBattle-7584.dll
+[2020.12.15-04.39.08:102][  3]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.39.08:141][  3]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.39.08:144][  3]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.39.08:161][  3]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.39.08:163][  3]Display: HotReload took  0.1s.
+[2020.12.15-04.39.32:312][ 46]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.39.44:670][569]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1
+[2020.12.15-04.39.44:877][569]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.39.44:877][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.39.45:413][570]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-04.40.31:591][501]LogStaticMesh: SM_Env_Breakables_Box1 스태틱 메시 빌드중...
+[2020.12.15-04.40.31:598][501]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1
+[2020.12.15-04.44.40:987][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.12.15-04.44.40:990][361]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.123
+[2020.12.15-04.44.40:991][361]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1] ([1] browsable assets)...
+[2020.12.15-04.44.41:004][361]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1.SM_Env_Breakables_Box1]
+[2020.12.15-04.44.41:004][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1]
+[2020.12.15-04.44.41:022][361]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/SM_Env_Breakables_Box1_Auto231C92F714322F3B37896D6B0B07A3F42.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Box/SM_Env_Breakables_Box1_Auto2.uasset'
+[2020.12.15-04.44.41:022][361]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.12.15-04.45.06:168][437]LogHotReload: New module detected: UE4Editor-ArenaBattle-0095.dll
+[2020.12.15-04.45.07:516][442]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.45.07:605][442]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.45.07:613][442]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.45.07:614][442]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.45.07:614][442]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.45.07:616][442]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.45.07:635][442]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2020.12.15-04.45.07:658][442]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.45.07:661][442]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.45.07:769][442]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.45.07:773][442]Display: HotReload took  0.3s.
+[2020.12.15-04.45.16:274][907]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.45.19:416][ 91]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -1090.00,-805.00,40.00
+[2020.12.15-04.45.19:836][115]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -820.00,-725.00,40.00
+[2020.12.15-04.45.33:725][913]Cmd: TRANSACTION UNDO
+[2020.12.15-04.45.33:725][913]LogEditorTransaction: Undo 컴포넌트 이동
+[2020.12.15-04.45.33:857][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.46.14:043][ 72]Cmd: TRANSACTION UNDO
+[2020.12.15-04.46.14:043][ 72]LogEditorTransaction: Undo 컴포넌트에 클릭 (트리 뷰)
+[2020.12.15-04.46.14:182][ 72]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.46.14:710][ 87]Cmd: TRANSACTION UNDO
+[2020.12.15-04.46.14:710][ 87]LogEditorTransaction: Undo 컴포넌트에 클릭 (트리 뷰)
+[2020.12.15-04.46.14:869][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.46.15:200][106]Cmd: TRANSACTION UNDO
+[2020.12.15-04.46.15:200][106]LogEditorTransaction: Undo 위치 설정
+[2020.12.15-04.46.15:355][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.46.15:786][130]Cmd: TRANSACTION UNDO
+[2020.12.15-04.46.15:786][130]LogEditorTransaction: Undo 컴포넌트 이동
+[2020.12.15-04.46.15:933][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-04.46.31:091][791]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (BOX)
+[2020.12.15-04.46.31:613][821]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (BOX)
+[2020.12.15-04.46.32:177][854]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (BOX)
+[2020.12.15-04.46.33:648][933]Cmd: DELETE
+[2020.12.15-04.46.33:648][933]Cmd: ACTOR DELETE
+[2020.12.15-04.46.33:649][933]LogEditorActor: Deleted Actor: ABItemBox
+[2020.12.15-04.46.33:738][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.12.15-04.46.33:740][933]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2020.12.15-04.46.41:272][113]LogHotReload: New module detected: UE4Editor-ArenaBattle-0096.dll
+[2020.12.15-04.46.42:294][117]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.46.42:343][117]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.46.42:344][117]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.46.42:344][117]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.46.42:346][117]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.46.42:361][117]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2020.12.15-04.46.42:382][117]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.46.42:385][117]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.46.42:468][117]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.46.42:472][117]Display: HotReload took  0.2s.
+[2020.12.15-04.47.03:489][702]LogSlate: Window '새 채널' being destroyed
+[2020.12.15-04.47.55:924][355]LogSlate: Window '새 프로파일' being destroyed
+[2020.12.15-04.47.56:045][357]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.48.02:343][456]LogSlate: Window '프로파일 편집' being destroyed
+[2020.12.15-04.48.14:014][329]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.15-04.48.14:026][329]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.12.15-04.49.38:916][637]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.50.29:650][789]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.51.31:870][975]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.52.08:949][ 86]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.52.18:956][116]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.52.51:035][212]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.53.04:361][252]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.53.16:375][287]LogHotReload: New module detected: UE4Editor-ArenaBattle-0097.dll
+[2020.12.15-04.53.17:392][291]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.53.17:462][291]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.53.17:462][291]LogClass: Function OnCharacterOverlap is new.
+[2020.12.15-04.53.17:475][291]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.17:476][291]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.53.17:476][291]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.17:478][291]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.17:502][291]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2020.12.15-04.53.17:527][291]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.53.17:532][291]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.53.17:653][291]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.53.17:656][291]Display: HotReload took  0.3s.
+[2020.12.15-04.53.19:687][310]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.20:800][405]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -620.00,-1265.00,40.00
+[2020.12.15-04.53.21:192][447]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -150.00,-1220.00,35.00
+[2020.12.15-04.53.24:418][688]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -880.00,-895.00,40.00
+[2020.12.15-04.53.25:286][739]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -725.00,-770.00,40.00
+[2020.12.15-04.53.26:777][823]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-04.53.26:796][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-04.53.26:796][823]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 10:53:26)
+[2020.12.15-04.53.26:796][823]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.53.26:797][823]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.26:799][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2020.12.15-04.53.26:799][823]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-04.53.26:799][823]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6F1791E00), frame # 83823
+[2020.12.15-04.53.26:799][823]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B70D57A980), frame # 83823
+[2020.12.15-04.53.26:799][823]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2020.12.15-04.53.26:799][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003311s)
+[2020.12.15-04.53.26:942][823]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-04.53.26:945][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-04.53.26:945][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-04.53.26:946][823]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-04.53.26:946][823]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-04.53.26:948][823]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-04.53.26:948][823]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-04.53.26:959][823]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-04.53.26:959][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-04.53.26:959][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-04.53.26:960][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-04.53.26:960][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-04.53.26:972][823]LogInit: FAudioDevice initialized.
+[2020.12.15-04.53.26:977][823]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-04.53.26:978][823]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-13.53.26
+[2020.12.15-04.53.26:978][823]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-04.53.26:979][823]LogWorld: Bringing up level for play took: 0.000995
+[2020.12.15-04.53.26:979][823]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 0
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-04.53.26:980][823]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-04.53.26:981][823]PIE: 서버가 로그인했습니다.
+[2020.12.15-04.53.26:981][823]PIE: 에디터에서 플레이 총 시작 시간 0.188초입니다.
+[2020.12.15-04.53.28:308][901]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.53.28:956][940]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.53.28:956][940]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(143)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.53.29:757][988]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.53.34:639][275]LogSlate: Took 0.008086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.15-04.53.34:640][275]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϰ (U+03f0)'
+[2020.12.15-04.53.34:650][275]LogSlate: Took 0.008869 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.12.15-04.53.36:237][369]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.53.36:887][408]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.53.36:887][408]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(143)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.53.37:687][456]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.53.38:904][529]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.41:329][736]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.42:425][867]Set new viewmode: Wireframe
+[2020.12.15-04.53.44:810][146]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.46:943][402]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.48:118][543]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.48:643][606]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.49:177][670]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.51:260][920]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.54:078][258]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(47)
+[2020.12.15-04.53.54:920][359]ArenaBattle: Warning: UABAnimInstance::JumpToAttackMontageSection(47)JumpToAttackMontageSection NewSection : 1
+[2020.12.15-04.53.55:204][393]ArenaBattle: Warning: AABCharacter::AttackCheck(319)Hit Actor Name : ABItemBox_2
+[2020.12.15-04.53.55:577][438]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(140)OnNextAttackCheck
+[2020.12.15-04.53.55:577][438]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_af64ddcaa498aabed58352429d9f7128>::operator ()(143)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-04.53.56:377][534]ArenaBattle: Warning: AABCharacter::AttackEndComboState(285)AttackEndComboState CurrentCombo : 1
+[2020.12.15-04.53.56:793][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.53.56:793][579]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-04.53.56:793][579]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-04.53.56:793][579]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-04.53.56:793][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.53.56:805][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-04.53.56:808][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-04.53.56:823][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-04.53.56:839][579]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6F1791E00), frame # 86579
+[2020.12.15-04.53.56:839][579]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B70D57A980), frame # 86579
+[2020.12.15-04.53.56:841][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.12.15-04.53.56:877][580]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.12.15-04.54.31:479][964]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.54.49:435][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NormalMap)
+[2020.12.15-04.54.54:896][445]LogHotReload: New module detected: UE4Editor-ArenaBattle-0098.dll
+[2020.12.15-04.54.56:027][513]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.54.56:131][513]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.54.56:151][513]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.54.56:154][513]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.54.56:211][513]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.54.56:219][513]Display: HotReload took  0.2s.
+[2020.12.15-04.55.13:712][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.15-04.55.13:716][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.15-04.55.13:737][512]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step2_Auto358BBEEB04B7DF27EF33345AFA5CCD47E.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto3.umap'
+[2020.12.15-04.55.13:738][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.077
+[2020.12.15-04.55.13:738][512]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.077
+[2020.12.15-04.56.11:660][925]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-04.57.09:177][ 96]LogHotReload: New module detected: UE4Editor-ArenaBattle-0099.dll
+[2020.12.15-04.57.10:191][100]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-04.57.10:243][100]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-04.57.10:243][100]LogClass: Function OnCharacterOverlap is new.
+[2020.12.15-04.57.10:251][100]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-04.57.10:269][100]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2020.12.15-04.57.10:288][100]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-04.57.10:291][100]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-04.57.10:374][100]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-04.57.10:378][100]Display: HotReload took  0.2s.
+[2020.12.15-04.57.12:057][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NormalMap)
+[2020.12.15-04.57.12:462][178]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox4)
+[2020.12.15-04.57.31:586][328]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -475.00,-720.00,35.00
+[2020.12.15-04.57.32:523][382]LogEditor: Attempting to add actor of class 'ABItemBox' to level at -575.00,-800.00,40.00
+[2020.12.15-04.57.36:005][587]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox4)
+[2020.12.15-04.57.37:196][655]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox3)
+[2020.12.15-04.57.37:764][686]Cmd: DELETE
+[2020.12.15-04.57.37:764][686]Cmd: ACTOR DELETE
+[2020.12.15-04.57.37:766][686]LogEditorActor: Deleted Actor: ABItemBox
+[2020.12.15-04.57.37:838][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.12.15-04.57.37:840][686]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.12.15-04.57.38:169][705]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox4)
+[2020.12.15-04.57.38:858][741]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.15-04.57.44:891][ 96]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox2)
+[2020.12.15-04.59.51:115][280]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.00.04:809][321]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.00.40:968][429]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.01.16:501][535]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.05.14:624][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.12.15-05.05.14:632][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.15-05.05.14:675][245]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step2_Auto4A986DA20416F1AF3423F05BC29DEA9D6.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto4.umap'
+[2020.12.15-05.05.14:676][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.088
+[2020.12.15-05.05.14:676][245]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2020.12.15-05.06.07:769][441]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.06.25:853][494]LogHotReload: New module detected: UE4Editor-ArenaBattle-0101.dll
+[2020.12.15-05.06.26:871][498]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-05.06.26:973][498]LogClass: Could not find existing class ABCharacter in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-05.06.26:974][498]LogClass: Function OnAttackMontageEnded is new.
+[2020.12.15-05.06.26:988][498]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-05.06.27:009][498]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2020.12.15-05.06.27:012][498]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-05.06.27:074][498]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3437 classes and 827 folders.
+[2020.12.15-05.06.27:083][498]Display: HotReload took  0.2s.
+[2020.12.15-05.06.34:801][581]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.06.34:818][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.06.34:818][581]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:06:34)
+[2020.12.15-05.06.34:854][581]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.06.34:856][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002220s)
+[2020.12.15-05.06.34:857][581]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.06.34:857][581]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6DA1CE400), frame # 94581
+[2020.12.15-05.06.34:857][581]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B67B601800), frame # 94581
+[2020.12.15-05.06.34:857][581]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2020.12.15-05.06.34:857][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003597s)
+[2020.12.15-05.06.34:905][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.06.34:907][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.06.34:907][581]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.06.34:907][581]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.06.34:910][581]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.06.34:910][581]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.06.34:921][581]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.06.34:922][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.06.34:922][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.06.34:922][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.06.34:922][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.06.34:934][581]LogInit: FAudioDevice initialized.
+[2020.12.15-05.06.34:945][581]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.06.34:946][581]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 0) at 2020.12.15-14.06.34
+[2020.12.15-05.06.34:947][581]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.06.34:947][581]LogWorld: Bringing up level for play took: 0.001015
+[2020.12.15-05.06.34:947][581]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.12.15-05.06.34:948][581]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.06.34:948][581]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.06.34:948][581]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.06.34:948][581]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.06.34:948][581]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.06.34:949][581]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.06.34:949][581]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.06.34:949][581]PIE: 에디터에서 플레이 총 시작 시간 0.135초입니다.
+[2020.12.15-05.06.36:402][748]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.36:402][748]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.06.38:269][972]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(51)
+[2020.12.15-05.06.43:386][478]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(51)
+[2020.12.15-05.06.43:386][478]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(65)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.06.45:218][588]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(51)
+[2020.12.15-05.06.45:218][588]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(65)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.06.46:635][673]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.46:902][689]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(51)
+[2020.12.15-05.06.46:902][689]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(65)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.06.46:902][689]ArenaBattle: Warning: AABCharacter::AttackCheck(310)Hit Actor Name : ABItemBox_2
+[2020.12.15-05.06.47:285][712]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.47:953][752]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.48:201][767]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(51)
+[2020.12.15-05.06.48:202][767]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(65)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.06.50:902][929]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.51:552][968]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.06.51:874][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.06.51:874][985]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.06.51:875][985]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.06.51:875][985]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.06.51:875][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.06.51:882][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.06.51:885][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.06.51:921][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.06.51:922][985]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B67B601800), frame # 95985
+[2020.12.15-05.06.51:922][985]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6DA1CE400), frame # 95985
+[2020.12.15-05.06.51:936][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.12.15-05.06.51:970][986]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.12.15-05.07.18:695][807]LogTexture: Display: 텍스처 빌드: T_starFlare_03 (AutoDXT, 256X256)
+[2020.12.15-05.07.18:695][807]LogTexture: Display: 텍스처 빌드: T_SwipeTrail (AutoDXT, 512X512)
+[2020.12.15-05.07.18:695][807]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2020.12.15-05.07.18:695][807]LogTexture: Display: 텍스처 빌드: T_Pickup_GoldBag_D (AutoDXT, 512X512)
+[2020.12.15-05.07.18:695][807]LogTexture: Display: 텍스처 빌드: T_Pickup_GoldBag_N (BC5, 512X512)
+[2020.12.15-05.07.18:695][807]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2020.12.15-05.07.18:730][807]LogStaticMesh: SM_TreasureChest_Gold 스태틱 메시 빌드중...
+[2020.12.15-05.07.18:776][807]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_TreasureChest_Gold.SM_TreasureChest_Gold
+[2020.12.15-05.07.18:791][807]LogStaticMesh: SM_Treasure_Coin 스태틱 메시 빌드중...
+[2020.12.15-05.07.18:810][807]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Treasure_Coin.SM_Treasure_Coin
+[2020.12.15-05.07.18:818][807]LogMaterial: Display: Missing cached shader map for material M_Treasure_Gold_Add_2sided, compiling. 
+[2020.12.15-05.07.18:834][807]LogMaterial: Display: Missing cached shader map for material M_GoldBag, compiling. 
+[2020.12.15-05.07.18:874][807]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/InfinityBladeGrassLands/Effects/FX_Treasure/Chest/P_TreasureChest_Open_Mesh.P_TreasureChest_Open_Mesh
+[2020.12.15-05.07.18:923][807]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.12.15-05.07.49:217][544]LogCascade: Quitting Cascade. FXSystem=0x000001B6A3AC2920
+[2020.12.15-05.07.49:252][544]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.07.49:252][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.07.51:202][657]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.07.51:202][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.07.56:988][979]Cmd: TRANSACTION UNDO
+[2020.12.15-05.07.56:988][979]LogEditorTransaction: Undo 액터 생성
+[2020.12.15-05.07.57:059][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.15-05.09.41:353][ 58]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.11.03:371][304]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.12.50:270][750]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.12.59:675][778]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.13.39:786][917]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.15-05.15.32:439][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.12.15-05.15.32:448][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Maps/Step2" FILE="D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.15-05.15.32:469][253]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/Step2_Auto54D86F9AD4CA837EF68F6CC879856E788.tmp' to 'D:/Unreal Projects/ArenaBattle/Saved/Autosaves/Game/Book/Maps/Step2_Auto5.umap'
+[2020.12.15-05.15.32:470][253]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Book/Maps/Step2' took 0.093
+[2020.12.15-05.15.32:470][253]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2020.12.15-05.15.42:116][282]LogHotReload: New module detected: UE4Editor-ArenaBattle-0103.dll
+[2020.12.15-05.15.43:470][287]LogHotReload: Starting Hot-Reload from IDE
+[2020.12.15-05.15.43:538][287]LogClass: Could not find existing class ABItemBox in package /Script/ArenaBattle for HotReload, assuming new class
+[2020.12.15-05.15.43:538][287]LogClass: Function OnCharacterOverlap is new.
+[2020.12.15-05.15.43:538][287]LogClass: Function OnEffectFinished is new.
+[2020.12.15-05.15.43:547][287]LogHotReload: Re-instancing ABCharacter after hot-reload.
+[2020.12.15-05.15.43:563][287]LogHotReload: Re-instancing ABItemBox after hot-reload.
+[2020.12.15-05.15.43:585][287]LogContentBrowser: Native class hierarchy updated for 'ArenaBattle' in 0.0004 seconds. Added 8 classes and 2 folders.
+[2020.12.15-05.15.43:588][287]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.12.15-05.15.43:673][287]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 3439 classes and 829 folders.
+[2020.12.15-05.15.43:678][287]Display: HotReload took  0.2s.
+[2020.12.15-05.15.54:554][435]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.15.54:572][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.15.54:572][435]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:15:54)
+[2020.12.15-05.15.54:572][435]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.15.54:574][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002428s)
+[2020.12.15-05.15.54:575][435]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.15.54:575][435]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6DE4C6400), frame # 101435
+[2020.12.15-05.15.54:576][435]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6E7F8E480), frame # 101435
+[2020.12.15-05.15.54:576][435]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2020.12.15-05.15.54:576][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003889s)
+[2020.12.15-05.15.54:652][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.15.54:655][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.15.54:655][435]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.15.54:655][435]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.15.54:658][435]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.15.54:658][435]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.15.54:669][435]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.15.54:669][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.15.54:669][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.15.54:669][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.15.54:669][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.15.54:682][435]LogInit: FAudioDevice initialized.
+[2020.12.15-05.15.54:689][435]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.15.54:690][435]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-14.15.54
+[2020.12.15-05.15.54:691][435]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.15.54:691][435]LogWorld: Bringing up level for play took: 0.000946
+[2020.12.15-05.15.54:691][435]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.15.54:692][435]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.15.54:693][435]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.15.54:693][435]PIE: 에디터에서 플레이 총 시작 시간 0.124초입니다.
+[2020.12.15-05.15.55:544][485]ArenaBattle: Warning: AABCharacter::AttackCheck(310)Hit Actor Name : Fountain_1
+[2020.12.15-05.15.55:910][507]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.15.55:910][507]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.15.58:710][675]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.16.01:276][829]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.16.01:276][829]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(78)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.16.02:294][890]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.02:944][929]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.03:226][946]ArenaBattle: Warning: AABCharacter::AttackCheck(310)Hit Actor Name : ABCharacter_1
+[2020.12.15-05.16.03:227][946]ArenaBattle: Warning: AABCharacter::TakeDamage(150)Actor : ABCharacter_1 took Damage : 50.000000
+[2020.12.15-05.16.03:612][969]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.05:535][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.16.05:535][ 82]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.16.05:535][ 82]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.16.05:535][ 82]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.16.05:535][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.16.05:542][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.16.05:545][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.16.05:576][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.16.05:582][ 82]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6E7F8E480), frame # 102082
+[2020.12.15-05.16.05:582][ 82]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6DE4C6400), frame # 102082
+[2020.12.15-05.16.05:596][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.12.15-05.16.05:631][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.12.15-05.16.06:352][123]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.16.06:366][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.16.06:366][123]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:16:06)
+[2020.12.15-05.16.06:367][123]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.16.06:369][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001999s)
+[2020.12.15-05.16.06:369][123]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.16.06:369][123]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6913F9C00), frame # 102123
+[2020.12.15-05.16.06:370][123]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6EFEB9080), frame # 102123
+[2020.12.15-05.16.06:370][123]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2020.12.15-05.16.06:371][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003884s)
+[2020.12.15-05.16.06:386][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.12.15-05.16.06:387][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.16.06:387][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.16.06:387][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.16.06:387][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.16.06:387][123]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.16.06:388][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.16.06:388][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.16.06:388][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.16.06:388][123]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.16.06:388][123]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.16.06:390][123]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.16.06:390][123]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.16.06:402][123]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.16.06:402][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.16.06:402][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.16.06:402][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.16.06:403][123]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.16.06:415][123]LogInit: FAudioDevice initialized.
+[2020.12.15-05.16.06:424][123]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.16.06:425][123]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-14.16.06
+[2020.12.15-05.16.06:425][123]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.16.06:426][123]LogWorld: Bringing up level for play took: 0.001003
+[2020.12.15-05.16.06:426][123]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.12.15-05.16.06:427][123]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.16.06:427][123]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.16.06:427][123]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.16.06:427][123]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.16.06:428][123]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.16.06:428][123]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.16.06:428][123]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.16.06:428][123]PIE: 에디터에서 플레이 총 시작 시간 0.062초입니다.
+[2020.12.15-05.16.09:542][309]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.10:193][348]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.10:859][388]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.10:908][391]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.16.13:409][541]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.16.13:734][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.16.13:734][559]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.16.13:734][559]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.16.13:734][559]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.16.13:735][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.16.13:744][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.16.13:747][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.16.13:762][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.16.13:778][559]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6EFEB9080), frame # 102559
+[2020.12.15-05.16.13:778][559]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6913F9C00), frame # 102559
+[2020.12.15-05.16.13:779][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.12.15-05.16.13:815][560]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.12.15-05.24.49:172][ 27]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.12.15-05.24.56:186][ 27]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.12.15-05.25.39:814][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Book/Blueprints/BP_WeaponAxe.BP_WeaponAxe
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_M (AutoDXT, 512X512)
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_M (AutoDXT, 512X512)
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_N (BC5, 512X512)
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_N (BC5, 512X512)
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade1_D (AutoDXT, 512X512)
+[2020.12.15-05.25.48:585][487]LogTexture: Display: 텍스처 빌드: T_Blade_GreatBlade2_D (AutoDXT, 512X512)
+[2020.12.15-05.25.48:585][487]LogSkeletalMesh: Building Skeletal Mesh SK_Blade_GreatBlade...
+[2020.12.15-05.25.48:586][487]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/SK_Blade_GreatBlade.SK_Blade_GreatBlade
+[2020.12.15-05.25.48:624][487]LogMaterial: Display: Missing cached shader map for material M_Blade_GreatBlade, compiling. 
+[2020.12.15-05.26.09:292][711]BlueprintLog: New page: BP_WeaponAxe 컴파일
+[2020.12.15-05.26.09:363][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.12.15-05.26.09:413][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Blueprints/BP_WeaponAxe" FILE="D:/Unreal Projects/ArenaBattle/Content/Book/Blueprints/BP_WeaponAxe.uasset" SILENT=true
+[2020.12.15-05.26.09:429][711]LogSavePackage: Moving 'D:/Unreal Projects/ArenaBattle/Saved/BP_WeaponAxeC584AB994973EDE1E1B358AAE25EF9D9.tmp' to 'D:/Unreal Projects/ArenaBattle/Content/Book/Blueprints/BP_WeaponAxe.uasset'
+[2020.12.15-05.26.09:446][711]AssetCheck: New page: 애셋 저장: BP_WeaponAxe
+[2020.12.15-05.26.09:446][711]LogContentValidation: Display: Blueprint /Game/Book/Blueprints/BP_WeaponAxe.BP_WeaponAxe 유효성 검사
+[2020.12.15-05.26.13:162][934]LogEditorViewport: Clicking on Actor (LMB): ABItemBox (ABItemBox4)
+[2020.12.15-05.26.29:736][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.15-05.26.34:810][205]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.26.34:833][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.26.34:833][205]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:26:34)
+[2020.12.15-05.26.34:855][205]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.26.34:857][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2020.12.15-05.26.34:858][205]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.26.34:858][205]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B65670BA00), frame # 111205
+[2020.12.15-05.26.34:858][205]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6EFEB8E00), frame # 111205
+[2020.12.15-05.26.34:858][205]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2020.12.15-05.26.34:858][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.003365s)
+[2020.12.15-05.26.34:880][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.26.34:884][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.26.34:884][205]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.26.34:884][205]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.26.34:887][205]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.26.34:887][205]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.26.34:898][205]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.26.34:898][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.26.34:898][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.26.34:898][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.26.34:898][205]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.26.34:910][205]LogInit: FAudioDevice initialized.
+[2020.12.15-05.26.34:921][205]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.26.34:922][205]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-14.26.34
+[2020.12.15-05.26.34:922][205]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.26.34:922][205]LogWorld: Bringing up level for play took: 0.000996
+[2020.12.15-05.26.34:922][205]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.12.15-05.26.34:923][205]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.26.34:924][205]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.26.34:924][205]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.26.34:924][205]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.26.34:924][205]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.26.34:924][205]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.26.34:924][205]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.26.34:925][205]PIE: 에디터에서 플레이 총 시작 시간 0.092초입니다.
+[2020.12.15-05.26.39:548][481]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.26.40:734][552]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.40:734][552]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.26.42:265][644]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.42:915][683]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.43:582][723]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.45:631][846]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.26.45:631][846]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(78)ABCharacter_0 can't equip weapon currently.
+[2020.12.15-05.26.46:964][926]ArenaBattle: Warning: AABCharacter::AttackCheck(310)Hit Actor Name : ABItemBox_2
+[2020.12.15-05.26.47:331][948]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.47:331][948]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.26.47:536][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.26.47:536][958]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.26.47:537][958]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.26.47:537][958]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.26.47:537][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.26.47:542][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.26.47:545][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.26.47:577][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.26.47:578][958]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6EFEB8E00), frame # 111958
+[2020.12.15-05.26.47:578][958]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B65670BA00), frame # 111958
+[2020.12.15-05.26.47:580][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.12.15-05.26.47:612][959]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.12.15-05.26.48:374][  4]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.26.48:388][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.26.48:388][  4]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:26:48)
+[2020.12.15-05.26.48:388][  4]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.26.48:390][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002007s)
+[2020.12.15-05.26.48:390][  4]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.26.48:390][  4]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6AFCC1E00), frame # 112004
+[2020.12.15-05.26.48:390][  4]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B6BF2F4CC0), frame # 112004
+[2020.12.15-05.26.48:391][  4]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2020.12.15-05.26.48:391][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002871s)
+[2020.12.15-05.26.48:409][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.26.48:410][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.26.48:410][  4]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.26.48:410][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.26.48:412][  4]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.26.48:412][  4]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.26.48:422][  4]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.26.48:422][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.26.48:422][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.26.48:422][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.26.48:423][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.26.48:435][  4]LogInit: FAudioDevice initialized.
+[2020.12.15-05.26.48:443][  4]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.26.48:444][  4]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-14.26.48
+[2020.12.15-05.26.48:444][  4]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.26.48:444][  4]LogWorld: Bringing up level for play took: 0.001030
+[2020.12.15-05.26.48:445][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.26.48:446][  4]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.26.48:447][  4]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.26.48:447][  4]PIE: 에디터에서 플레이 총 시작 시간 0.06초입니다.
+[2020.12.15-05.26.52:089][221]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.52:739][260]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.52:739][260]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.26.53:121][283]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.26.54:405][360]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.55:054][399]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.55:722][439]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.55:916][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.26.55:916][449]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.26.55:916][449]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.26.55:916][449]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.26.55:916][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.26.55:924][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.26.55:927][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.26.55:963][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.26.55:964][449]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B6BF2F4CC0), frame # 112449
+[2020.12.15-05.26.55:964][449]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6AFCC1E00), frame # 112449
+[2020.12.15-05.26.55:965][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.12.15-05.26.55:999][450]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.12.15-05.26.56:743][490]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.12.15-05.26.56:757][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-05.26.56:757][490]PIE: New page: PIE 세션: Step2 (2020. 12. 15. 오후 11:26:56)
+[2020.12.15-05.26.56:757][490]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.26.56:759][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2020.12.15-05.26.56:759][490]LogAIModule: Creating AISystem for world Step2
+[2020.12.15-05.26.56:759][490]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B6913FA800), frame # 112490
+[2020.12.15-05.26.56:759][490]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B691C55440), frame # 112490
+[2020.12.15-05.26.56:760][490]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2020.12.15-05.26.56:760][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step2.Step2 to /Game/Book/Maps/UEDPIE_0_Step2.Step2 (0.002854s)
+[2020.12.15-05.26.56:778][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-05.26.56:779][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-05.26.56:779][490]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-05.26.56:779][490]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-05.26.56:781][490]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-05.26.56:781][490]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-05.26.56:792][490]LogAudioMixer: Display: Using Audio Device 5 - HDMI(AMD High Definition Audio Device)
+[2020.12.15-05.26.56:792][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-05.26.56:792][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-05.26.56:792][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-05.26.56:792][490]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-05.26.56:804][490]LogInit: FAudioDevice initialized.
+[2020.12.15-05.26.56:810][490]LogLoad: Game class is 'ABGameMode'
+[2020.12.15-05.26.56:811][490]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step2.Step2 up for play (max tick rate 60) at 2020.12.15-14.26.56
+[2020.12.15-05.26.56:811][490]ArenaBattle: Warning: AFountain::PostInitializeComponents(68)
+[2020.12.15-05.26.56:812][490]LogWorld: Bringing up level for play took: 0.000931
+[2020.12.15-05.26.56:812][490]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(9)
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AABGameMode::PostLogin(23)PostLogin Begin
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AABPlayerController::OnPossess(15)
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AABGameMode::PostLogin(25)PostLogin End
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AFountain::BeginPlay(55)
+[2020.12.15-05.26.56:813][490]ArenaBattle: Warning: AFountain::BeginPlay(56)Actor Name : Fountain_1, ID : 0, Location X : 45.000
+[2020.12.15-05.26.56:813][490]PIE: 서버가 로그인했습니다.
+[2020.12.15-05.26.56:814][490]PIE: 에디터에서 플레이 총 시작 시간 0.059초입니다.
+[2020.12.15-05.26.59:197][632]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.26.59:847][671]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.27.00:513][711]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.27.00:513][711]ArenaBattle: Error: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(136)ASSERTION : 'IsComboInputOn == true'
+[2020.12.15-05.27.02:580][835]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.27.02:847][851]ArenaBattle: Warning: AABCharacter::AttackCheck(310)Hit Actor Name : ABItemBox_4
+[2020.12.15-05.27.03:231][874]ArenaBattle: Warning: AABItemBox::OnCharacterOverlap(60)
+[2020.12.15-05.27.03:231][874]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.27.03:897][914]ArenaBattle: Warning: AABCharacter::PostInitializeComponents::<lambda_d315f5f02b460b49cc8f28c54ba38176>::operator ()(133)OnNextAttackCheck
+[2020.12.15-05.27.05:336][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.27.05:336][999]LogWorld: BeginTearingDown for /Game/Book/Maps/UEDPIE_0_Step2
+[2020.12.15-05.27.05:336][999]ArenaBattle: Warning: AFountain::EndPlay(62)
+[2020.12.15-05.27.05:336][999]LogWorld: UWorld::CleanupWorld for Step2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-05.27.05:336][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.27.05:345][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-05.27.05:349][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-05.27.05:366][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-05.27.05:382][999]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B691C55440), frame # 112999
+[2020.12.15-05.27.05:382][999]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B6913FA800), frame # 112999
+[2020.12.15-05.27.05:384][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.12.15-05.27.05:414][  0]LogPlayLevel: Display: Destroying online subsystem :Context_36

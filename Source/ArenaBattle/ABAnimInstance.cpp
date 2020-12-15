@@ -44,7 +44,6 @@ void UABAnimInstance::JumpToAttackMontageSection(int32 NewSection)
 {
 	ABCHECK(!IsDead);
 	ABCHECK(Montage_IsPlaying(AttackMontage));
-	ABLOG(Warning, TEXT("JumpToAttackMontageSection NewSection : %d"), NewSection);
 	Montage_JumpToSection(GetAttackMontageSectionName(NewSection), AttackMontage);
 }
 

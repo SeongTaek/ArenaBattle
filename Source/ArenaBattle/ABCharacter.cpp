@@ -3,6 +3,7 @@
 
 #include "ABCharacter.h"
 #include "ABAnimInstance.h"
+#include "ABWeapon.h"
 #include "DrawDebugHelpers.h"
 
 // Sets default values
@@ -50,7 +51,6 @@ AABCharacter::AABCharacter()
 void AABCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-
 }
 
 void AABCharacter::SetControlMode(EControlMode NewControlMode)
@@ -134,7 +134,6 @@ void AABCharacter::PostInitializeComponents()
 		CanNextCombo = false;
 
 		ABCHECK(IsComboInputOn == true);
-		ABLOG(Warning, TEXT("CurrentCombo : %d"), CurrentCombo);
 		if (IsComboInputOn)
 		{
 			AttackStartComboState();
@@ -275,7 +274,6 @@ void AABCharacter::AttackEndComboState()
 {
 	IsComboInputOn = false;
 	CanNextCombo = false;
-	ABLOG(Warning, TEXT("AttackEndComboState CurrentCombo : %d"), CurrentCombo);
 	CurrentCombo = 0;
 }
 
@@ -314,5 +312,23 @@ void AABCharacter::AttackCheck()
 			FDamageEvent DamgeEvent;
 			HitResult.Actor->TakeDamage(50.0f, DamgeEvent, GetController(), this);
 		}
+	}
+}
+
+bool AABCharacter::CanSetWeapon()
+{
+	return (nullptr == CurrentWeapon);
+}
+
+void AABCharacter::SetWeapon(AABWeapon* NewWeapon)
+{
+	ABCHECK(nullptr != NewWeapon && nullptr == CurrentWeapon);
+
+	FName WeaponSocket(TEXT("hand_rSocket"));
+	if (nullptr != NewWeapon)
+	{
+		NewWeapon->AttachToComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetNotIncludingScale, WeaponSocket);
+		NewWeapon->SetOwner(this);
+		CurrentWeapon = NewWeapon;
 	}
 }
