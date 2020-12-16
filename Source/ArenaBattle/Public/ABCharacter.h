@@ -86,6 +86,9 @@ public:
 	UPROPERTY(VisibleAnywhere, Category = UI)
 	class UWidgetComponent* HPBarWidget;
 
+	FSoftObjectPath CharacterAssetToLoad = FSoftObjectPath(nullptr);
+	TSharedPtr<struct FStreamableHandle> AssetStreamingHandle;
+
 private:
 	void UpDown(float NewAxisValue);
 	void LeftRight(float NewAxisValue);
@@ -100,6 +103,8 @@ private:
 	void AttackStartComboState();
 	void AttackEndComboState();
 	void AttackCheck();
+
+	void OnAssetLoadCompleted();
 
 public:
 	void Attack();
