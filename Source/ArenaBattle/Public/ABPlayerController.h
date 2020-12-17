@@ -19,6 +19,10 @@ public:
 
 	virtual void PostInitializeComponents() override;
 	virtual void OnPossess(APawn* InPawn) override;
+	virtual void SetupInputComponent() override;
+
+	void ChangeInputMode(bool bGameMode = true);
+	void ShowResultUI();
 
 public:
 	class UABHUDWidget* GetHUDWidget() const;
@@ -27,10 +31,21 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
-	virtual void SetupInputComponent() override;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = UI)
 	TSubclassOf<class UABHUDWidget> HUDWidgetClass;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = UI)
+	TSubclassOf<class UABGameplayWidget> MenuWidgetClass;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = UI)
+	TSubclassOf<class UABGameplayResultWidget> ResultWidgetClass;
+
+private:
+	void OnGamePause();
+
+	FInputModeGameOnly GameInputMode;
+	FInputModeUIOnly UIInputMode;
 
 private:
 	UPROPERTY()
@@ -38,4 +53,10 @@ private:
 
 	UPROPERTY()
 	class AABPlayerState* ABPlayerState;
+
+	UPROPERTY()
+	class UABGameplayWidget* MenuWidget;
+
+	UPROPERTY()
+	class UABGameplayResultWidget* ResultWidget;
 };
